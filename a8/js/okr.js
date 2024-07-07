@@ -14,11 +14,11 @@ function init() {
     "https://zaltaumi.net/4/7683322",
     "https://gouthishoust.net/4/7683324",
 
-    "https://stongoapti.net/4/7683326",
-    "https://psaurdard.net/4/7683327",
-    "https://megroarsoy.net/4/7683328",
-    "https://thaudray.com/4/7683329",
-    "https://psaupteer.net/4/7683330",
+    // "https://stongoapti.net/4/7683326",
+    // "https://psaurdard.net/4/7683327",
+    // "https://megroarsoy.net/4/7683328",
+    // "https://thaudray.com/4/7683329",
+    // "https://psaupteer.net/4/7683330",
   ];
  
   var didOpen = false;
