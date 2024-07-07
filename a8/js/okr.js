@@ -1,6 +1,6 @@
 function init() {
   var arr = [
-    // hill: Michael
+    // hil: Michael
     "https://spry-cat.com/bv3WVz0nP.3/pYvtb-mOVYJVZDDp0G1/NADOIV2VNJTJcQ0/LQT/UQ0/MVjwYw1tNjzzUB",
     "https://spry-cat.com/b.3/Vk0NP/3gp/vDblmCVpJVZ-De0_1ZNjD/I/2ANWTsgUyKLaTBU/0gMXj/Y/1lOYDkMu",
     "https://spry-cat.com/bW3YVq0/P.3UpIvGb/mLV_JmZ/Da0-1CNHD-I/2/NqTUkwwTLtT/Ue0tM/j/YI1tOHTNEY",
