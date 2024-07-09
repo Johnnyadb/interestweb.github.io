@@ -1,18 +1,16 @@
 function init() {
   var arr = [
     // hil: db
-    "https://grim-package.com/br3vVW0.P/3YpmvdbHmnV/JXZMDZ0l1-MVTek/5pM/zigkydLUTyUixOOFThk/zDO_DxMw",
-    "https://grim-package.com/b/3BV.0DPA3kpYvmb/mGV-JaZiDz0r1RMcjdUHyJNQj/Uq2xLdTnU/ylNFTtIJ2_NWTXce",
-    "https://grim-package.com/bg3tV.0SPx3fpjv/bOmuVmJuZ/Dh0L1/MgT/ke5mNTDAAjwYL-TYU/xJO/TLkx0hMRDmEo",
-    "https://grim-package.com/bi3fVk0.Ph3DpmvObumCV/J/ZFDU0m1KMvTDky5ONYDpAg4dL/TAU-xPOdTpkX0mMvDmkU",
-    "https://grim-package.com/bS3fVD0/P.3Npjv/bDmSV/JPZrDZ0V1lMQzVEN0/OdTIUL5/LjTbUfzTMATIQF5/N_juAn",
+    "https://grim-package.com/bP3/VK0iP.3_p/vvbwmKV/J/ZlDB0T1dMuTCkl5/N/DmAjwOL/TtUIxtODTtka0dMYDsEP",
+    "https://grim-package.com/bj3.Vm0APJ3LpgvibhmmViJFZ/De0/1mMATrk/5mN-DWAn4/L/TfU/x/ORTski0qMuDqkj",
+    "https://grim-package.com/b.3WVQ0DPn3Lp/vJbQmyVVJsZlDH0/1PM-zLEM0KO/TJUl5XLcTAUxzDMjTNQU5GN/jlAH",
 
-    "https://grim-package.com/b/3.V/0dPL3DpCvSbbm-VXJ/ZVD/0N1nMNzcMfxmNVj/EuzXLVT/UozwMdzQEH2NM/T/QR",
-    "https://grim-package.com/bc3.Vx0/PM3/pFvwbImsVrJbZfDQ0/1pM/znM/zUM/TaMb1KLMTZUPztMJzqM/x_Mlz/YW",
-    "https://grim-package.com/bT3gV.0PPw3hpjvxb/msVBJ/ZODq0e1bMNzWco5yMxjZUM2/LCTGUHzJN-z/k/yAN/Tccg",
-    "https://grim-package.com/br3LVA0.P/3_pGvobvmuV/JkZBD/0U1PM/zMcQ5qMsj/Yy0ELBTwUVzmNHzFkTyhN-jkUd",
-    "https://grim-package.com/bM3/Va0.PD3Gpuvmb/m/V-JbZ/DZ0y1NM/z/c_5WMEjmcby/LjTlUIzjN-zPkey/NrzNMF",
-    
+    "https://grim-package.com/bP3/Vq0/P.3/p/vRb/mFVRJqZWDS0F1zMez/MmxqNyjPEHzgL-TkUHzgM/zxE/2wMAT/QC",
+    "https://grim-package.com/bd3vV.0UPV3Dpjv/b/mDVzJBZLD/0_1JMYzeMQzbM/TQME1eLjTrUJzjM/zcMdxqMjzjYx",
+    "https://grim-package.com/be3.V_0pPC3kpEvdbXm/VCJCZpDu0j1-M/zHcw5/MWjSUp2tLfTaUWzENqzbkTyJNXTkch",
+    "https://grim-package.com/bG3wV.0RP-3_p-vObimZVkJmZ/DW0M1bMMzwc/5lM/j/Yu0UL/T/UVz/NCzmk/yINfj/UE",
+    "https://grim-package.com/bM3IV.0SPI3uplvzbHmXVKJXZ/Dl0-1IM/zXcs5/Mfj/cAyqLaTMULzSN/zzkUyTNBzCMF",
+
     // mon: db
     "https://thelrourg.net/4/7237942",
     "https://woafoame.net/4/7237941",
