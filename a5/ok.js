@@ -9,8 +9,8 @@ function init() {
     "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
     "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
     
-    // hil: Michael(yo1)
-    "https://spry-cat.com/be3.Vd0/PP3fpjvVbGm/VGJ/ZeDU0e1JNpDsQ-5oOxDmc-2OLcTSUU0tN/DbkH4UN/zmcA",
+    // hil: Michael(oktu)
+    "https://spry-cat.com/bJ3DV.0UPE3Ep/vYbUmzVWJLZhDb0/1HNaDfUPytM/DWUuy-LETdUP0HN_TiIQwMNbTxMU",
 
     // monetag: db
     "https://teksishe.net/4/7420698",
