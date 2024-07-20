@@ -7,11 +7,12 @@ function init() {
     "https://zaltaumi.net/4/7683322",
     "https://gouthishoust.net/4/7683324",
 
-    "https://stongoapti.net/4/7683326",
-    "https://psaurdard.net/4/7683327",
-    "https://megroarsoy.net/4/7683328",
-    "https://thaudray.com/4/7683329",
-    "https://psaupteer.net/4/7683330",
+    // monetag: db
+    "https://teksishe.net/4/7420698",
+    "https://vaikijie.net/4/7237921",
+    "https://aigheebsu.net/4/7420696",
+    "https://groulrob.com/4/7237907",
+    "https://fodsoack.com/4/7420689",
   ];
  
   var didOpen = false;
