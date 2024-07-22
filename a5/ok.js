@@ -9,6 +9,9 @@ function init() {
     "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
     "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
     
+    // hil
+    "https://www.qrcreate.online",
+
     // hil: Michael(se)
     // "https://spry-cat.com/b/3xVb0NP.3dpLvdbImMVlJKZlD/0O1YNND/UhzeMTzDgL2-LjTQU/0/N_TbMSzoOGDRcL",
 
@@ -18,7 +21,7 @@ function init() {
     "https://aigheebsu.net/4/7420696",
     "https://groulrob.com/4/7237907",
     "https://fodsoack.com/4/7420689",
-    // "https://choufauphik.net/4/7474716",
+    "https://choufauphik.net/4/7474716",
   ];
  
   var didOpen = false;
