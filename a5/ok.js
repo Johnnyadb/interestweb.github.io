@@ -10,7 +10,7 @@ function init() {
     "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
     
     // hil: Michael(se)
-    "https://spry-cat.com/b/3xVb0NP.3dpLvdbImMVlJKZlD/0O1YNND/UhzeMTzDgL2-LjTQU/0/N_TbMSzoOGDRcL",
+    // "https://spry-cat.com/b/3xVb0NP.3dpLvdbImMVlJKZlD/0O1YNND/UhzeMTzDgL2-LjTQU/0/N_TbMSzoOGDRcL",
 
     // monetag: db
     "https://teksishe.net/4/7420698",
@@ -18,7 +18,7 @@ function init() {
     "https://aigheebsu.net/4/7420696",
     "https://groulrob.com/4/7237907",
     "https://fodsoack.com/4/7420689",
-    "https://choufauphik.net/4/7474716",
+    // "https://choufauphik.net/4/7474716",
   ];
  
   var didOpen = false;
