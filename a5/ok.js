@@ -8,12 +8,13 @@ function init() {
     // hil: db123 
     "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
     "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
-    
-    // hil
-    "https://www.qrcreate.online",
 
-    // hil: Michael(se)
-    // "https://spry-cat.com/b/3xVb0NP.3dpLvdbImMVlJKZlD/0O1YNND/UhzeMTzDgL2-LjTQU/0/N_TbMSzoOGDRcL",
+    // hil: dabao
+    "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
+    "https://www.qrcreate.online",
+    
+    // hil: Michael(yoo)
+    "https://spry-cat.com/by3zVN0AP.3qpKvwbvmEVBJaZODG0M1UNHDGQE5xOHDYY/2DLnToUF0/N/D/kz4/NPjLca",
 
     // monetag: db
     "https://teksishe.net/4/7420698",
