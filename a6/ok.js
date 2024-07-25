@@ -1,11 +1,11 @@
 function init() {
   var arr = [
     // mon: Lucy
-    "https://kaushichie.net/4/7683316",
-    "https://grapseex.com/4/7683319",
-    "https://nawhaurgoas.com/4/7683320",
-    "https://zaltaumi.net/4/7683322",
-    "https://gouthishoust.net/4/7683324",
+    "https://ouphaips.net/4/7683320",
+    "https://udelsoam.com/4/7683326",
+    "https://zumtultaxikr.com/4/7683316",
+    "https://doruffleton.com/4/7683324",
+    "https://futseerdoa.com/4/7683319",
 
     // monetag: db
     "https://teksishe.net/4/7420698",
