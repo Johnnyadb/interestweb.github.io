@@ -6,6 +6,9 @@ function init() {
     "https://shulugoo.net/4/7683329",
     "https://coofoagleeh.com/4/7683328",
     "https://psutoupoo.net/4/7683327",
+    // mon: Lucy
+    "https://json.qrcreate.online",
+    "https://dubzenom.com/4/7782127",
 
     // monetag: db
     "https://teksishe.net/4/7420698",

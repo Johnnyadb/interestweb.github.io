@@ -16,6 +16,10 @@ function init() {
     // hil: Michael(yoo)
     "https://spry-cat.com/by3zVN0AP.3qpKvwbvmEVBJaZODG0M1UNHDGQE5xOHDYY/2DLnToUF0/N/D/kz4/NPjLca",
     "https://json.navigateall.com",
+
+    // mon: Lucy
+    "https://json.qrcreate.online",
+    "https://dubzenom.com/4/7782127",
     
     // monetag: db
     "https://teksishe.net/4/7420698",
