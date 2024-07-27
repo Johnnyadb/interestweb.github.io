@@ -26,7 +26,7 @@ function init() {
     didOpen = true;
     setTimeout(() => {
       didOpen = false;
-    }, 10000);
+    }, 15000);
 
     var randomIndex = Math.floor(Math.random() * arr.length);
     var randomLink = arr[randomIndex];
