@@ -14,8 +14,8 @@ function init() {
     "https://www.qrcreate.online",
     
     // hil: Michael(yoo)
-    "https://spry-cat.com/by3zVN0AP.3qpKvwbvmEVBJaZODG0M1UNHDGQE5xOHDYY/2DLnToUF0/N/D/kz4/NPjLca",
-    "https://json.navigateall.com",
+    "https://ruddy-boyfriend.com/b/3PVY0ZP.3zplvubSmBV/JiZSDX0U1ZNbD-QM5-OrD-YY2NLNTFUo0fN/DHkq4rN/j/cm", 
+    // "https://json.navigateall.com", // DECLINED
 
     // mon: Lucy
     "https://json.qrcreate.online",
