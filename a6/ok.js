@@ -9,7 +9,7 @@ function init() {
     
     // mon: Lucy
     "https://json.qrcreate.online",
-    "https://dubzenom.com/4/7782127",
+    // "https://dubzenom.com/4/7782127",
 
     // monetag: db
     "https://teksishe.net/4/7420698",
