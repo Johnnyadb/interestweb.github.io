@@ -7,10 +7,6 @@ function init() {
     "https://doruffleton.com/4/7683324",
     "https://futseerdoa.com/4/7683319",
     
-    // mon: Lucy
-    "https://json.qrcreate.online",
-    // "https://dubzenom.com/4/7782127",
-
     // monetag: db
     "https://teksishe.net/4/7420698",
     "https://vaikijie.net/4/7237921",
