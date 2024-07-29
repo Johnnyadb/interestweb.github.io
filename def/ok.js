@@ -1,17 +1,20 @@
 function init() {
   var arr = [
     // mon: db
-    "https://thelrourg.net/4/7237942",
-    "https://woafoame.net/4/7237941",
-    "https://corgouzaptax.com/4/7474716",
-    "https://eeptoabs.com/4/7420689",
-    "https://thechoansa.com/4/7237907",
+    "https://glooghalty.net/4/7237941",
+    "https://owhopteefi.net/4/7436813",
+    "https://pseleedrax.net/4/7237942",
+    "https://beewoupaule.net/4/7420696",
+    "https://koachewhome.net/4/7237921",
+    "https://faireegli.net/4/7474716",
 
-    "https://psomtenga.net/4/7420696",
-    "https://kaushooptawo.net/4/7237921",
-    "https://vekseptaufin.com/4/7420698",
-    "https://thomtubsaro.com/4/7436813",
-    "https://grushoungy.com/4/7614690",
+    // mon: lucy
+    "https://phuruxoods.com/4/7683326",
+    "https://whauzavouweb.com/4/7683329",
+    "https://naglelri.net/4/7683327",
+    "https://fouwhigrezi.net/4/7683328",
+    "https://boovoogie.net/4/7683330",
+    "https://rangauck.com/4/7683319",
   ];
  
   var didOpen = false;
