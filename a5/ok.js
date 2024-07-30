@@ -1,32 +1,19 @@
 function init() {
   var arr = [
-    // hil: Jacklove
-    "https://indolent-ability.com/bB3uV.0iPV3spPvtbVmHV/JQZ_DU0k1rMZzEgixBM/D/A_wFL/T/U_zgOvDKEawzMRDBEJ",
-    "https://indolent-ability.com/by3hV/0XP.3np/v-bRmrV/JQZ/DM0/1ZMuz/gAx/MCDKAR4qLQTRUdznOrD/EzwVMBDbkt",
-    "https://indolent-ability.com/bV3HVj0QP.3bpVvbbcmeVLJIZ/DF0M1-Maz-gwxbM/DYE/2kLfTGUvzEOrDkEJwOMaT_cg",
-
-    // hil: db123 
-    "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
-    "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
-
     // hil: dabao
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
     "https://www.qrcreate.online",
-    
-    // hil: Michael(yoo)
-    "https://ruddy-boyfriend.com/b/3PVY0ZP.3zplvubSmBV/JiZSDX0U1ZNbD-QM5-OrD-YY2NLNTFUo0fN/DHkq4rN/j/cm", 
 
     // mon: Lucy
+    "https://phuruxoods.com/4/7683326",
+    "https://whauzavouweb.com/4/7683329",
+    // "https://naglelri.net/4/7683327",
+    // "https://fouwhigrezi.net/4/7683328",
+    // "https://boovoogie.net/4/7683330",
+    // "https://rangauck.com/4/7683319",
+
     "https://json.qrcreate.online",
-    // "https://dubzenom.com/4/7782127",
-    
-    // monetag: db
-    "https://teksishe.net/4/7420698",
-    "https://vaikijie.net/4/7237921",
-    "https://aigheebsu.net/4/7420696",
-    "https://groulrob.com/4/7237907",
-    "https://fodsoack.com/4/7420689",
-    "https://choufauphik.net/4/7474716",
+    "https://dubzenom.com/4/7782127",
   ];
  
   var didOpen = false;

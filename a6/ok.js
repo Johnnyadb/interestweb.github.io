@@ -1,18 +1,11 @@
 function init() {
   var arr = [
+    // hil: Michael(yoo)
+    "https://ruddy-boyfriend.com/b/3PVY0ZP.3zplvubSmBV/JiZSDX0U1ZNbD-QM5-OrD-YY2NLNTFUo0fN/DHkq4rN/j/cm", 
+
     // mon: Lucy
-    "https://ouphaips.net/4/7683320",
-    "https://udelsoam.com/4/7683326",
-    "https://zumtultaxikr.com/4/7683316",
-    "https://doruffleton.com/4/7683324",
-    "https://futseerdoa.com/4/7683319",
-    
-    // monetag: db
-    "https://teksishe.net/4/7420698",
-    "https://vaikijie.net/4/7237921",
-    "https://aigheebsu.net/4/7420696",
-    "https://groulrob.com/4/7237907",
-    "https://fodsoack.com/4/7420689",
+    "https://json.qrcreate.online",
+    "https://dubzenom.com/4/7782127",
   ];
  
   var didOpen = false;
