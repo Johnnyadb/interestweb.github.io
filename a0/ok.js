@@ -5,13 +5,13 @@ function init() {
     "https://indolent-ability.com/by3hV/0XP.3np/v-bRmrV/JQZ/DM0/1ZMuz/gAx/MCDKAR4qLQTRUdznOrD/EzwVMBDbkt",
     "https://indolent-ability.com/bV3HVj0QP.3bpVvbbcmeVLJIZ/DF0M1-Maz-gwxbM/DYE/2kLfTGUvzEOrDkEJwOMaT_cg",
     
-    // monetag: db
+    // mon: db
     "https://teksishe.net/4/7420698",
     "https://vaikijie.net/4/7237921",
     "https://aigheebsu.net/4/7420696",
-    "https://groulrob.com/4/7237907",
-    "https://fodsoack.com/4/7420689",
-    "https://choufauphik.net/4/7474716",
+    // "https://groulrob.com/4/7237907",
+    // "https://fodsoack.com/4/7420689",
+    // "https://choufauphik.net/4/7474716",
   ];
  
   var didOpen = false;
