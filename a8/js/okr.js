@@ -6,10 +6,12 @@ function init() {
     // "https://indolent-ability.com/bV3HVj0QP.3bpVvbbcmeVLJIZ/DF0M1-Maz-gwxbM/DYE/2kLfTGUvzEOrDkEJwOMaT_cg",
     
     // hil: Michael(yoo) 
-    "https://ruddy-boyfriend.com/bi3.VH0XPB3Spiv/bBm/VzJvZDDO0w1QN/DCQI5LOXD/Yx2cLXTIUD0ZNnDvk/4lNhjdcM",
+    "https://ruddy-boyfriend.com/bi3.VH0XPB3Spiv/bBm/VzJvZDDO0w1QN/DCQI5LOXD/Yx2cLXTIUD0ZNnDvk/4lNhjdcM",    
+    // hil: Michael(yy) 
+    "https://ruddy-boyfriend.com/b/3-Ve0.PI3WpTvtbpmEVNJ/ZADS0E1UNlD/cyw/OgDrYK0_LbTcUS0iNwzlAU4/N/jjUf",
 
     // mon: lucy
-    // "https://phuruxoods.com/4/7683326",
+    "https://phuruxoods.com/4/7683326",
     "https://whauzavouweb.com/4/7683329",
     // "https://naglelri.net/4/7683327",
     // "https://fouwhigrezi.net/4/7683328",

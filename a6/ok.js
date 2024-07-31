@@ -1,8 +1,10 @@
 function init() {
   var arr = [
     // hil: Michael(yoo) 
-    "https://ruddy-boyfriend.com/bi3.VH0XPB3Spiv/bBm/VzJvZDDO0w1QN/DCQI5LOXD/Yx2cLXTIUD0ZNnDvk/4lNhjdcM",
-
+    "https://ruddy-boyfriend.com/bi3.VH0XPB3Spiv/bBm/VzJvZDDO0w1QN/DCQI5LOXD/Yx2cLXTIUD0ZNnDvk/4lNhjdcM",    
+    // // hil: Michael(yy) 
+    // "https://ruddy-boyfriend.com/b/3-Ve0.PI3WpTvtbpmEVNJ/ZADS0E1UNlD/cyw/OgDrYK0_LbTcUS0iNwzlAU4/N/jjUf",
+    
     // mon: lucy
     // "https://phuruxoods.com/4/7683326",
     "https://whauzavouweb.com/4/7683329",
