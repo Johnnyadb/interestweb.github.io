@@ -5,14 +5,14 @@ function init() {
     "https://www.qrcreate.online",
 
     // mon: lucy
-    "https://phuruxoods.com/4/7683326",
-    // "https://whauzavouweb.com/4/7683329",
-    // "https://naglelri.net/4/7683327",
+    // "https://phuruxoods.com/4/7683326",
+    "https://whauzavouweb.com/4/7683329",
+    "https://naglelri.net/4/7683327",
     // "https://fouwhigrezi.net/4/7683328",
     // "https://boovoogie.net/4/7683330",
     // "https://rangauck.com/4/7683319",
 
-    "https://json.qrcreate.online",
+    // "https://json.qrcreate.online",
     // "https://dubzenom.com/4/7782127",
   ];
  

@@ -5,13 +5,12 @@ function init() {
     "https://www.qrcreate.online",
 
     // mon: db
-    "https://glooghalty.net/4/7237941",
-    "https://owhopteefi.net/4/7436813",
-    // "https://pseleedrax.net/4/7237942",
-    // "https://beewoupaule.net/4/7420696",
-    // "https://koachewhome.net/4/7237921",
-    // "https://faireegli.net/4/7474716",
-    
+    "https://teksishe.net/4/7420698",
+    // "https://vaikijie.net/4/7237921",
+    // "https://aigheebsu.net/4/7420696",
+    // "https://groulrob.com/4/7237907",
+    "https://fodsoack.com/4/7420689",
+    // "https://choufauphik.net/4/7474716",
   ];
  
   var didOpen = false;

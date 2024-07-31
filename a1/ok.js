@@ -6,10 +6,10 @@ function init() {
 
     // mon: db
     "https://teksishe.net/4/7420698",
-    "https://vaikijie.net/4/7237921",
+    // "https://vaikijie.net/4/7237921",
     // "https://aigheebsu.net/4/7420696",
     // "https://groulrob.com/4/7237907",
-    // "https://fodsoack.com/4/7420689",
+    "https://fodsoack.com/4/7420689",
     // "https://choufauphik.net/4/7474716",
   ];
  

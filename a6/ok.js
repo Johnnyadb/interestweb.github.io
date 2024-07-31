@@ -2,8 +2,16 @@ function init() {
   var arr = [
     // hil: Michael(yoo) 
     "https://ruddy-boyfriend.com/bi3.VH0XPB3Spiv/bBm/VzJvZDDO0w1QN/DCQI5LOXD/Yx2cLXTIUD0ZNnDvk/4lNhjdcM",
+
     // mon: lucy
-    "https://json.qrcreate.online",
+    // "https://phuruxoods.com/4/7683326",
+    "https://whauzavouweb.com/4/7683329",
+    // "https://naglelri.net/4/7683327",
+    // "https://fouwhigrezi.net/4/7683328",
+    // "https://boovoogie.net/4/7683330",
+    // "https://rangauck.com/4/7683319",
+
+    // "https://json.qrcreate.online",
     // "https://dubzenom.com/4/7782127",
   ];
  
