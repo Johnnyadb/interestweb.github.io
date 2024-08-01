@@ -4,13 +4,31 @@ function init() {
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
     "https://www.qrcreate.online",
 
+    // hil: Michael(yoo) 
+    "https://ruddy-boyfriend.com/bi3.VH0XPB3Spiv/bBm/VzJvZDDO0w1QN/DCQI5LOXD/Yx2cLXTIUD0ZNnDvk/4lNhjdcM",    
+    // hil: Michael(yy) 
+    "https://ruddy-boyfriend.com/b/3-Ve0.PI3WpTvtbpmEVNJ/ZADS0E1UNlD/cyw/OgDrYK0_LbTcUS0iNwzlAU4/N/jjUf",
+
+    // hil: db123 
+    "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
+    "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
+
+    // hil: Jacklove (ni)
+    "https://indolent-ability.com/b.3bV-0-Pa3JpBvib-mrV/JwZTDV0/1QNvD/cywwNjj/cg2/LaT/Uz0/NdzYAE2/NtzDcQ",
+
     // mon: db
-    "https://teksishe.net/4/7420698",
-    // "https://vaikijie.net/4/7237921",
-    // "https://aigheebsu.net/4/7420696",
-    // "https://groulrob.com/4/7237907",
-    "https://fodsoack.com/4/7420689",
-    // "https://choufauphik.net/4/7474716",
+    "https://nutchaungong.com/4/7420689",
+    "https://maipheeg.com/4/7474716",
+    "https://glocheexi.com/4/7237941",
+    // "https://coawoaph.net/4/7237942",
+    // "https://laichegloavy.com/4/7631332",
+
+    "https://vorsoutseemt.com/4/7436813",
+    "https://eedootefaug.net/4/7420698",
+    "https://futseerdoa.com/4/7237921",
+    "https://eeboazurg.net/4/7420696",
+    // "https://psauwaun.com/4/7614690",
+    // "https://ptougeegnep.net/4/7237907",
   ];
  
   var didOpen = false;
