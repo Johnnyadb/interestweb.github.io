@@ -10,8 +10,7 @@ function init() {
     "https://ruddy-boyfriend.com/b/3-Ve0.PI3WpTvtbpmEVNJ/ZADS0E1UNlD/cyw/OgDrYK0_LbTcUS0iNwzlAU4/N/jjUf",
 
     // hil: db123 
-    "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
-    "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
+    "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
 
     // hil: Jacklove (ni)
     "https://indolent-ability.com/b.3bV-0-Pa3JpBvib-mrV/JwZTDV0/1QNvD/cywwNjj/cg2/LaT/Uz0/NdzYAE2/NtzDcQ",
@@ -19,7 +18,7 @@ function init() {
     // mon: lucy
     "https://phuruxoods.com/4/7683326",
     "https://whauzavouweb.com/4/7683329",
-    "https://naglelri.net/4/7683327",
+    // "https://naglelri.net/4/7683327",
     "https://fouwhigrezi.net/4/7683328",
     "https://boovoogie.net/4/7683330",
     // "https://rangauck.com/4/7683319",
