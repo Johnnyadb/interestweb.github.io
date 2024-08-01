@@ -2,7 +2,7 @@ function init() {
   var arr = [
     // hil: dabao
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
-    "https://www.qrcreate.online",
+    // "https://www.qrcreate.online",
 
     // hil: Michael(yoo) 
     "https://ruddy-boyfriend.com/bi3.VH0XPB3Spiv/bBm/VzJvZDDO0w1QN/DCQI5LOXD/Yx2cLXTIUD0ZNnDvk/4lNhjdcM",    
@@ -16,12 +16,12 @@ function init() {
     "https://indolent-ability.com/b.3bV-0-Pa3JpBvib-mrV/JwZTDV0/1QNvD/cywwNjj/cg2/LaT/Uz0/NdzYAE2/NtzDcQ",
     
     // mon: lucy
-    "https://phuruxoods.com/4/7683326",
+    // "https://phuruxoods.com/4/7683326",
     "https://whauzavouweb.com/4/7683329",
-    // "https://naglelri.net/4/7683327",
+    "https://naglelri.net/4/7683327",
     "https://fouwhigrezi.net/4/7683328",
     "https://boovoogie.net/4/7683330",
-    // "https://rangauck.com/4/7683319",
+    "https://rangauck.com/4/7683319",
 
     "https://json.qrcreate.online",
     "https://dubzenom.com/4/7782127",
