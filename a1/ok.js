@@ -1,8 +1,8 @@
 function init() {
   var arr = [
-    // hil: dabao
-    "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
-    // "https://www.qrcreate.online",
+    // // hil: dabao
+    // "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
+    // // "https://www.qrcreate.online",
 
     // hil: db123 
     "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
@@ -13,7 +13,7 @@ function init() {
     // mon: db
     "https://nutchaungong.com/4/7420689",
     "https://maipheeg.com/4/7474716",
-    "https://glocheexi.com/4/7237941",
+    // "https://glocheexi.com/4/7237941",
     // "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
 

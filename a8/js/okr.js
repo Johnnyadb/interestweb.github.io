@@ -7,13 +7,13 @@ function init() {
     // // hil: db123 
     // "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
 
-    // hil: Jacklove (let)
-    "https://indolent-ability.com/bF3/Vw0oP.3lpZv/bYm/VgJPZzDI0Q1cNaD-cpzTO/TZYA4EL/TeUl0FNTz/MA5/NxjUkt",
+    // // hil: Jacklove (let)
+    // "https://indolent-ability.com/bF3/Vw0oP.3lpZv/bYm/VgJPZzDI0Q1cNaD-cpzTO/TZYA4EL/TeUl0FNTz/MA5/NxjUkt",
 
     // mon: lucy
     // "https://phuruxoods.com/4/7683326",
     // "https://whauzavouweb.com/4/7683329",
-    "https://naglelri.net/4/7683327",
+    // "https://naglelri.net/4/7683327",
     "https://fouwhigrezi.net/4/7683328",
     "https://boovoogie.net/4/7683330",
     // "https://rangauck.com/4/7683319",
