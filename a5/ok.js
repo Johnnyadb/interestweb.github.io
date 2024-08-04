@@ -7,14 +7,16 @@ function init() {
     // hil: db123 
     "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
 
-    // // hil: Jacklove (let)
-    // "https://indolent-ability.com/bF3/Vw0oP.3lpZv/bYm/VgJPZzDI0Q1cNaD-cpzTO/TZYA4EL/TeUl0FNTz/MA5/NxjUkt",
+    // hil: Robert (robertgo)
+    "https://few-politics.com/b.3eVz0dPY3_pMvGbBmZVDJGZ/DS0P1ENZDqcR3uO/DzkwwKLCTLU/0PNizgcT4aOTTUEN",
+    // hil: Robert (anderson)
+    "https://few-politics.com/bR3/V.0DPk3qpvvIbQm-VmJKZrDG0F1DNLDEc/3COCTZA/4RLxTDU/0QNFzCcQ5MMHDbkN",
 
     // mon: lucy
     // "https://phuruxoods.com/4/7683326",
     "https://whauzavouweb.com/4/7683329",
     "https://naglelri.net/4/7683327",
-    // "https://fouwhigrezi.net/4/7683328",
+    "https://fouwhigrezi.net/4/7683328",
     // "https://boovoogie.net/4/7683330",
     // "https://rangauck.com/4/7683319",
 

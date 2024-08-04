@@ -7,8 +7,10 @@ function init() {
     // hil: db123 
     "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
 
-    // hil: leeisok
+    // hil: BrianLee (leeisok)
     "https://aggravatingoil.com/b/3KVp0/P.3GpGvdb/mHVmJYZIDz0N1mN/Dacr3/MozgUj0RLFTjU/0CNSzOcOz/N/TNUk",
+    // hil: BrianLee (brian)
+    "https://aggravatingoil.com/b.3KVO0GPl3Mp/vxb/m/V/JqZWDl0y1/N_DLcd3-O/TIMxwYLUTCUc0KN/zTcj5EMgzJEk",
 
     // mon: db
     "https://nutchaungong.com/4/7420689",

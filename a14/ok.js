@@ -7,8 +7,10 @@ function init() {
     // hil: db123 
     "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
     
-    // // hil: Jacklove (let)
-    // "https://indolent-ability.com/bF3/Vw0oP.3lpZv/bYm/VgJPZzDI0Q1cNaD-cpzTO/TZYA4EL/TeUl0FNTz/MA5/NxjUkt",
+    // hil: Robert (robertgo)
+    "https://few-politics.com/b.3eVz0dPY3_pMvGbBmZVDJGZ/DS0P1ENZDqcR3uO/DzkwwKLCTLU/0PNizgcT4aOTTUEN",
+    // hil: Robert (anderson)
+    "https://few-politics.com/bR3/V.0DPk3qpvvIbQm-VmJKZrDG0F1DNLDEc/3COCTZA/4RLxTDU/0QNFzCcQ5MMHDbkN",
     
     // mon: db
     // "https://nutchaungong.com/4/7420689",
@@ -20,7 +22,7 @@ function init() {
     // "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",
     // "https://futseerdoa.com/4/7237921",
-    // "https://eeboazurg.net/4/7420696",
+    "https://eeboazurg.net/4/7420696",
     "https://psauwaun.com/4/7614690",
     "https://ptougeegnep.net/4/7237907",
   ];
