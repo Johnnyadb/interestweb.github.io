@@ -3,7 +3,7 @@ function init() {
     // hil: dabao
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
     // "https://www.qrcreate.online",
-    
+
     // hil: db123 
     "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
     
@@ -11,6 +11,11 @@ function init() {
     "https://few-politics.com/b.3eVz0dPY3_pMvGbBmZVDJGZ/DS0P1ENZDqcR3uO/DzkwwKLCTLU/0PNizgcT4aOTTUEN",
     // hil: Robert (anderson)
     "https://few-politics.com/bR3/V.0DPk3qpvvIbQm-VmJKZrDG0F1DNLDEc/3COCTZA/4RLxTDU/0QNFzCcQ5MMHDbkN",
+    
+    // hil: BrianLee (leeisok)
+    "https://aggravatingoil.com/b/3KVp0/P.3GpGvdb/mHVmJYZIDz0N1mN/Dacr3/MozgUj0RLFTjU/0CNSzOcOz/N/TNUk",
+    // hil: BrianLee (brian)
+    "https://aggravatingoil.com/b.3KVO0GPl3Mp/vxb/m/V/JqZWDl0y1/N_DLcd3-O/TIMxwYLUTCUc0KN/zTcj5EMgzJEk",
     
     // mon: db
     "https://nutchaungong.com/4/7420689",
