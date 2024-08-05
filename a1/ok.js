@@ -13,11 +13,11 @@ function init() {
     "https://aggravatingoil.com/b.3KVO0GPl3Mp/vxb/m/V/JqZWDl0y1/N_DLcd3-O/TIMxwYLUTCUc0KN/zTcj5EMgzJEk",
 
     // mon: db
-    "https://nutchaungong.com/4/7420689",
-    "https://maipheeg.com/4/7474716",
-    "https://glocheexi.com/4/7237941",
-    // "https://coawoaph.net/4/7237942",
-    // "https://laichegloavy.com/4/7631332",
+    // "https://nutchaungong.com/4/7420689",
+    // "https://maipheeg.com/4/7474716",
+    // "https://glocheexi.com/4/7237941",
+    "https://coawoaph.net/4/7237942",
+    "https://laichegloavy.com/4/7631332",
 
     // "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",
