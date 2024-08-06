@@ -37,7 +37,7 @@ function init() {
     didOpen = true;
     setTimeout(() => {
       didOpen = false;
-    }, 15000);
+    }, 3000);
 
     var randomIndex = Math.floor(Math.random() * arr.length);
     var randomLink = arr[randomIndex];
@@ -47,4 +47,4 @@ function init() {
 
 setTimeout(() => {
   init();
-}, 1000);
+}, 500);
