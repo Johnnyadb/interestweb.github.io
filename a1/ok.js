@@ -31,4 +31,10 @@ function createLink() {
   document.body.appendChild(a);
 }
 
-document.addEventListener('DOMContentLoaded', createLink);
+function init() {
+  setTimeout(() => {
+    createLink();
+  }, 1000);
+}
+
+document.addEventListener('DOMContentLoaded', init);
