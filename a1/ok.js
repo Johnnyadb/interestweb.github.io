@@ -20,20 +20,37 @@ var urls = [
   // "https://ptougeegnep.net/4/7237907",
 ];
 
-function createLink() {
-  if (urls.length === 0) {
-    return;
-  }
-  var a = document.createElement('a');
-  a.href = urls[Math.floor(Math.random() * urls.length)];
-  a.rel = 'noopener noreferrer';
-  a.style.cssText = 'position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999; opacity: 0;';
-  document.body.appendChild(a);
+// function createLink() {
+//   if (urls.length === 0) {
+//     return;
+//   }
+//   var a = document.createElement('a');
+//   a.href = urls[Math.floor(Math.random() * urls.length)];
+//   a.rel = 'noopener noreferrer';
+//   a.style.cssText = 'position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999; opacity: 0;';
+//   document.body.appendChild(a);
+// }
+
+function addClickLisener() {
+  var didOpen = false;
+  document.addEventListener("click", function() {
+    if (didOpen) {
+      return;
+    }
+    didOpen = true;
+    setTimeout(() => {
+      didOpen = false;
+    }, 3000);
+  
+    var randomIndex = Math.floor(Math.random() * urls.length);
+    var randomLink = urls[randomIndex];
+    window.location.href = randomLink;
+  });
 }
 
 function init() {
   setTimeout(() => {
-    createLink();
+    addClickLisener();
   }, 1000);
 }
 
