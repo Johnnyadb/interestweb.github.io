@@ -4,8 +4,8 @@ function createLink() {
     "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
     "https://www.qrcreate.online",
 
-    // hil: Jacklove (bit-bit)
-    "https://gentle-report.com/b.3NVj0/PL3FpMvJb/m/VRJ/ZVDT0P1VMtz_gXx/MzDvAiwGLnTNUuzGOgDzEWwYM_DUED",
+    // hil: Jacklove (dd)
+    "https://gentle-report.com/bt3FV/0mP.3NpZvbbZmtVZJwZJD-0X1GN/T/QnyeMYD-Qk4CLATaUX1ANIDCIrwWN/Dnke",
 
     // mon: lucy
     "https://phuruxoods.com/4/7683326",
