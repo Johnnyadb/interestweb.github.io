@@ -4,13 +4,10 @@ function createLink() {
     "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
     "https://www.qrcreate.online",
 
-    // hil: Jacklove (ad)
-    "https://gentle-report.com/br3lVH0dP.3iplv_bpm/VFJpZ/Du0A1ENuTiQeyqMdDCUN2aLoTAUp1uN/DIICw/NgTgc_",
-
     // mon: db
     "https://nutchaungong.com/4/7420689",
     "https://maipheeg.com/4/7474716",
-    // "https://glocheexi.com/4/7237941",
+    "https://glocheexi.com/4/7237941",
     // "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
     
