@@ -4,11 +4,14 @@ function createLink() {
     "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
     "https://www.qrcreate.online",
 
+    // hil: Jacklove (bit-bit)
+    "https://gentle-report.com/b.3NVj0/PL3FpMvJb/m/VRJ/ZVDT0P1VMtz_gXx/MzDvAiwGLnTNUuzGOgDzEWwYM_DUED",
+
     // mon: lucy
     "https://phuruxoods.com/4/7683326",
     "https://whauzavouweb.com/4/7683329",
     "https://naglelri.net/4/7683327",
-    "https://fouwhigrezi.net/4/7683328",
+    // "https://fouwhigrezi.net/4/7683328",
     // "https://boovoogie.net/4/7683330",
     // "https://rangauck.com/4/7683319",
     
