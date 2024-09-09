@@ -8,15 +8,18 @@ function createLink() {
     "https://aggravatingoil.com/bD3.V/0WPd3Np/vubMm/VqJbZWDa0q1lNtT-QsyRMmj/Ew2XL_TmUQ1sN/DlIDyoMyTqcg",
 
     // mon: lucy
-    "https://phuruxoods.com/4/7683326",
+    // "https://phuruxoods.com/4/7683326",
     "https://whauzavouweb.com/4/7683329",
     "https://naglelri.net/4/7683327",
-    "https://fouwhigrezi.net/4/7683328",
+    // "https://fouwhigrezi.net/4/7683328",
     // "https://boovoogie.net/4/7683330",
     // "https://rangauck.com/4/7683319",
     
     // "https://json.qrcreate.online",
     // "https://dubzenom.com/4/7782127",
+
+    // juicy
+    "https://sexytalk.mjsj.sbs/tags/",
   ];
 
   if (urls.length === 0) {
