@@ -6,6 +6,7 @@ function createLink() {
 
     // hil: Brian
     "https://aggravatingoil.com/bD3.V/0WPd3Np/vubMm/VqJbZWDa0q1lNtT-QsyRMmj/Ew2XL_TmUQ1sN/DlIDyoMyTqcg",
+    "https://json.navigateall.com",
 
     // mon: lucy
     // "https://phuruxoods.com/4/7683326",
