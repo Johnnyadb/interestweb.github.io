@@ -24,7 +24,7 @@ function createLink() {
 
     // hil: db123
     "https://classic-bonus.com/b/3gV.0-Pp3dpRvtbRmxVLJkZqD/0m1gN/TJcYwENIT_ctyoLfTRUY1wN/zMAI1FNczqMW",
-    "https://sexystory.navigateall.com",
+    "https://sexystory.navigateall.com/tags/",
   ];
 
   if (urls.length === 0) {
