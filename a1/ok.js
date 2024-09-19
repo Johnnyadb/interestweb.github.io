@@ -23,7 +23,7 @@ function createLink() {
     "https://sexytalk.mjsj.sbs/tags/",
 
     // exoclick
-    "https://hot123.top/tags/",
+    "https://hot123.top",
   ];
 
   if (urls.length === 0) {
