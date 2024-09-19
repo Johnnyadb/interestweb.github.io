@@ -22,8 +22,8 @@ function createLink() {
     // juicy
     "https://sexytalk.mjsj.sbs/tags/",
 
-    // exoclick
-    "https://hot123.top",
+    // hil: db123
+    "https://classic-bonus.com/b/3gV.0-Pp3dpRvtbRmxVLJkZqD/0m1gN/TJcYwENIT_ctyoLfTRUY1wN/zMAI1FNczqMW",
   ];
 
   if (urls.length === 0) {
