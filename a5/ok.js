@@ -19,11 +19,18 @@ function createLink() {
     // "https://eedootefaug.net/4/7420698",
     // "https://futseerdoa.com/4/7237921",
     // "https://eeboazurg.net/4/7420696",
-    // "https://psauwaun.com/4/7614690",
+    "https://psauwaun.com/4/7614690",
     "https://ptougeegnep.net/4/7237907",
     
     // juicy
     "https://sexytalk.mjsj.sbs/tags/",
+
+    // pending
+    "https://hot123.top/tags/",
+
+    // hil: db123
+    "https://classic-bonus.com/b/3gV.0-Pp3dpRvtbRmxVLJkZqD/0m1gN/TJcYwENIT_ctyoLfTRUY1wN/zMAI1FNczqMW",
+    "https://sexystory.navigateall.com/tags/",
   ];
 
   if (urls.length === 0) {

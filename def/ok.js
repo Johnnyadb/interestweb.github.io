@@ -12,8 +12,8 @@ function createLink() {
     // "https://nutchaungong.com/4/7420689",
     // "https://maipheeg.com/4/7474716",
     // "https://glocheexi.com/4/7237941",
-    // "https://coawoaph.net/4/7237942",
-    // "https://laichegloavy.com/4/7631332",
+    "https://coawoaph.net/4/7237942",
+    "https://laichegloavy.com/4/7631332",
     
     // "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",
@@ -25,8 +25,12 @@ function createLink() {
     // juicy
     "https://sexytalk.mjsj.sbs/tags/",
 
+    // pending
+    "https://hot123.top/tags/",
+
     // hil: db123
     "https://classic-bonus.com/b/3gV.0-Pp3dpRvtbRmxVLJkZqD/0m1gN/TJcYwENIT_ctyoLfTRUY1wN/zMAI1FNczqMW",
+    "https://sexystory.navigateall.com/tags/",
   ];
 
   if (urls.length === 0) {

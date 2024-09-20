@@ -13,14 +13,17 @@ function createLink() {
     // "https://whauzavouweb.com/4/7683329",
     // "https://naglelri.net/4/7683327",
     // "https://fouwhigrezi.net/4/7683328",
-    // "https://boovoogie.net/4/7683330",
-    // "https://rangauck.com/4/7683319",
+    "https://boovoogie.net/4/7683330",
+    "https://rangauck.com/4/7683319",
     
     // "https://json.qrcreate.online",
     // "https://dubzenom.com/4/7782127",
 
     // juicy
     "https://sexytalk.mjsj.sbs/tags/",
+
+    // pending
+    "https://hot123.top/tags/",
 
     // hil: db123
     "https://classic-bonus.com/b/3gV.0-Pp3dpRvtbRmxVLJkZqD/0m1gN/TJcYwENIT_ctyoLfTRUY1wN/zMAI1FNczqMW",
