@@ -2,11 +2,11 @@ function createLink() {
   var urls = [
     // hil: db (ss)
     "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
-    "https://www.qrcreate.online",
+    // "https://www.qrcreate.online",
     
     // hil: Brian
     "https://aggravatingoil.com/bD3.V/0WPd3Np/vubMm/VqJbZWDa0q1lNtT-QsyRMmj/Ew2XL_TmUQ1sN/DlIDyoMyTqcg",
-    "https://json.navigateall.com",
+    // "https://json.navigateall.com",
 
     // mon: db
     // "https://nutchaungong.com/4/7420689",
@@ -23,14 +23,13 @@ function createLink() {
     // "https://ptougeegnep.net/4/7237907",
     
     // juicy
-    "https://sexytalk.mjsj.sbs/tags/",
+    // "https://sexytalk.mjsj.sbs/tags/",
 
-    // // pending
+    // pending
     // "https://hot123.top/tags/",
 
     // hil: db123
-    // "https://classic-bonus.com/b/3gV.0-Pp3dpRvtbRmxVLJkZqD/0m1gN/TJcYwENIT_ctyoLfTRUY1wN/zMAI1FNczqMW",
-    "https://sexystory.navigateall.com/tags/",
+    // "https://sexystory.navigateall.com/tags/",
   ];
 
   if (urls.length === 0) {
