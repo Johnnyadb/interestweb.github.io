@@ -22,8 +22,8 @@ function createLink() {
     // juicy
     "https://sexytalk.mjsj.sbs/tags/",
 
-    // pending
-    "https://hot123.top/tags/",
+    // // pending
+    // "https://hot123.top/tags/",
 
     // hil: db123
     "https://sexystory.navigateall.com/tags/",
