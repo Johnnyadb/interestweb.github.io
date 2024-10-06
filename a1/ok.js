@@ -4,6 +4,9 @@ function createLink() {
     "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
     "https://www.qrcreate.online",
 
+    // hil: db123
+    "https://sexystory.navigateall.com/tags/",
+
     // hil: Brian
     "https://aggravatingoil.com/bD3.V/0WPd3Np/vubMm/VqJbZWDa0q1lNtT-QsyRMmj/Ew2XL_TmUQ1sN/DlIDyoMyTqcg",
     "https://json.navigateall.com",
@@ -28,13 +31,10 @@ function createLink() {
     // "https://dubzenom.com/4/7782127",
 
     // juicy
-    "https://sexytalk.mjsj.sbs/tags/",
+    // "https://sexytalk.mjsj.sbs/tags/",
 
     // // pending
     // "https://hot123.top/tags/",
-
-    // hil: db123
-    "https://sexystory.navigateall.com/tags/",
   ];
 
   if (urls.length === 0) {

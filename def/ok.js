@@ -3,6 +3,9 @@ function createLink() {
     // hil: db (ss)
     "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
     "https://www.qrcreate.online",
+
+    // hil: db123
+    "https://sexystory.navigateall.com/tags/",
     
     // hil: Brian
     "https://aggravatingoil.com/bD3.V/0WPd3Np/vubMm/VqJbZWDa0q1lNtT-QsyRMmj/Ew2XL_TmUQ1sN/DlIDyoMyTqcg",
@@ -17,7 +20,7 @@ function createLink() {
     "https://sexylove.mjsj.sbs/",
 
     // mon: db
-    // "https://nutchaungong.com/4/7420689",
+    "https://nutchaungong.com/4/7420689",
     // "https://maipheeg.com/4/7474716",
     // "https://glocheexi.com/4/7237941",
     // "https://coawoaph.net/4/7237942",
@@ -31,13 +34,10 @@ function createLink() {
     // "https://ptougeegnep.net/4/7237907",
     
     // juicy
-    "https://sexytalk.mjsj.sbs/tags/",
+    // "https://sexytalk.mjsj.sbs/tags/",
 
     // // pending
     // "https://hot123.top/tags/",
-
-    // hil: db123
-    "https://sexystory.navigateall.com/tags/",
   ];
 
   if (urls.length === 0) {
