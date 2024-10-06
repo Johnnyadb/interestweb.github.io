@@ -31,7 +31,7 @@ function createLink() {
     // "https://dubzenom.com/4/7782127",
 
     // juicy
-    // "https://sexytalk.mjsj.sbs/tags/",
+    "https://sexytalk.mjsj.sbs/tags/",
 
     // // pending
     // "https://hot123.top/tags/",

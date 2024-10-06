@@ -34,7 +34,7 @@ function createLink() {
     // "https://ptougeegnep.net/4/7237907",
     
     // juicy
-    // "https://sexytalk.mjsj.sbs/tags/",
+    "https://sexytalk.mjsj.sbs/tags/",
 
     // // pending
     // "https://hot123.top/tags/",
