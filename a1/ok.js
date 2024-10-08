@@ -13,11 +13,25 @@ function createLink() {
 
     // hil: Thomas
     "https://experiencedturn.com/bn3/V.0KPm3rp/vYb-mOVkJFZKDq0m1CNzjIAN1rMHDIgJyeLETjUp2wMeDkUPwyOIDOMs",
-    "https://loveskill.mjsj.sbs/tags/",
+    // "https://loveskill.mjsj.sbs/tags/",
 
     // hil: Jacklove
     "https://gentle-report.com/b.3_VC0XPt3vpFvIbCmtV/JaZ/D/0p1xNCjVALwbN/TqQPyPLUTkUG2wMQDBA/1YNxDjMC",
     "https://sexylove.mjsj.sbs/",
+
+    // mon: db
+    "https://nutchaungong.com/4/7420689",
+    // "https://maipheeg.com/4/7474716",
+    // "https://glocheexi.com/4/7237941",
+    // "https://coawoaph.net/4/7237942",
+    // "https://laichegloavy.com/4/7631332",
+    
+    // "https://vorsoutseemt.com/4/7436813",
+    // "https://eedootefaug.net/4/7420698",
+    // "https://futseerdoa.com/4/7237921",
+    // "https://eeboazurg.net/4/7420696",
+    // "https://psauwaun.com/4/7614690",
+    // "https://ptougeegnep.net/4/7237907",
 
     // mon: lucy
     // "https://phuruxoods.com/4/7683326",

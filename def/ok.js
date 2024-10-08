@@ -13,7 +13,7 @@ function createLink() {
 
     // hil: Thomas
     "https://experiencedturn.com/bn3/V.0KPm3rp/vYb-mOVkJFZKDq0m1CNzjIAN1rMHDIgJyeLETjUp2wMeDkUPwyOIDOMs",
-    "https://loveskill.mjsj.sbs/tags/",
+    // "https://loveskill.mjsj.sbs/tags/",
 
     // hil: Jacklove
     "https://gentle-report.com/b.3_VC0XPt3vpFvIbCmtV/JaZ/D/0p1xNCjVALwbN/TqQPyPLUTkUG2wMQDBA/1YNxDjMC",
