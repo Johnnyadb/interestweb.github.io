@@ -14,7 +14,7 @@ function createLink() {
 
     // hil: Jacklove
     // "https://gentle-report.com/b.3_VC0XPt3vpFvIbCmtV/JaZ/D/0p1xNCjVALwbN/TqQPyPLUTkUG2wMQDBA/1YNxDjMC",
-    // "https://sexylove.mjsj.sbs/",
+    // "https://sexylove.mjsj.sbs/tags/",
 
     // mon: db
     // "https://nutchaungong.com/4/7420689",
