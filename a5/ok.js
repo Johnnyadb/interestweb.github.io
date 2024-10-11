@@ -12,10 +12,6 @@ function createLink() {
     "https://experiencedturn.com/bn3/V.0KPm3rp/vYb-mOVkJFZKDq0m1CNzjIAN1rMHDIgJyeLETjUp2wMeDkUPwyOIDOMs",
     // "https://loveskill.mjsj.sbs/tags/",
 
-    // hil: Jacklove
-    // "https://gentle-report.com/b.3_VC0XPt3vpFvIbCmtV/JaZ/D/0p1xNCjVALwbN/TqQPyPLUTkUG2wMQDBA/1YNxDjMC",
-    // "https://sexylove.mjsj.sbs/tags/",
-
     // mon: db
     // "https://nutchaungong.com/4/7420689",
     // "https://maipheeg.com/4/7474716",
