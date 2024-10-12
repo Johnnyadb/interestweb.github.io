@@ -25,15 +25,6 @@ function createLink() {
     // "https://eeboazurg.net/4/7420696",
     // "https://psauwaun.com/4/7614690",
     // "https://ptougeegnep.net/4/7237907",
-    
-    // juicy
-    // "https://sexytalk.mjsj.sbs/tags/",
-
-    // pending
-    // "https://hot123.top/tags/",
-
-    // hil: db123
-    // "https://sexystory.navigateall.com/tags/",
   ];
 
   if (urls.length === 0) {

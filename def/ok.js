@@ -27,16 +27,10 @@ function createLink() {
     
     "https://vorsoutseemt.com/4/7436813",
     "https://eedootefaug.net/4/7420698",
-    // "https://futseerdoa.com/4/7237921",
+    "https://futseerdoa.com/4/7237921",
     // "https://eeboazurg.net/4/7420696",
     // "https://psauwaun.com/4/7614690",
     // "https://ptougeegnep.net/4/7237907",
-    
-    // juicy
-    "https://sexytalk.mjsj.sbs/tags/",
-
-    // // pending
-    // "https://hot123.top/tags/",
   ];
 
   if (urls.length === 0) {
