@@ -8,9 +8,9 @@ function createLink() {
     "https://aggravatingoil.com/bD3.V/0WPd3Np/vubMm/VqJbZWDa0q1lNtT-QsyRMmj/Ew2XL_TmUQ1sN/DlIDyoMyTqcg",
     // "https://json.navigateall.com",
     
-    // hil: Thomas
-    "https://experiencedturn.com/bn3/V.0KPm3rp/vYb-mOVkJFZKDq0m1CNzjIAN1rMHDIgJyeLETjUp2wMeDkUPwyOIDOMs",
-    // "https://loveskill.mjsj.sbs/tags/",
+    // // hil: Thomas
+    // "https://experiencedturn.com/bn3/V.0KPm3rp/vYb-mOVkJFZKDq0m1CNzjIAN1rMHDIgJyeLETjUp2wMeDkUPwyOIDOMs",
+    // // "https://loveskill.mjsj.sbs/tags/",
 
     // mon: db
     // "https://nutchaungong.com/4/7420689",
