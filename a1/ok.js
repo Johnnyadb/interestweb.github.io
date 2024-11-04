@@ -14,14 +14,17 @@ function createLink() {
     // hil: Jacklove
     "https://sexylove.mjsj.sbs/tags/",
 
+    // clickadilla: Lucy
+    "https://hot123.top/tags/",
+
     // mon: db
-    "https://nutchaungong.com/4/7420689",
-    "https://maipheeg.com/4/7474716",
-    "https://glocheexi.com/4/7237941",
+    // "https://nutchaungong.com/4/7420689",
+    // "https://maipheeg.com/4/7474716",
+    // "https://glocheexi.com/4/7237941",
     // "https://coawoaph.net/4/7237942",
-    // "https://laichegloavy.com/4/7631332",
+    "https://laichegloavy.com/4/7631332",
     
-    // "https://vorsoutseemt.com/4/7436813",
+    "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",
     // "https://futseerdoa.com/4/7237921",
     // "https://eeboazurg.net/4/7420696",
