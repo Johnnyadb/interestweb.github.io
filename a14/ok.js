@@ -15,7 +15,6 @@ function createLink() {
     "https://sexylove.mjsj.sbs/tags/",
 
     // hil: Thomas
-    "https://experiencedturn.com/b.3wVu0iPm3/pJvkbGmZVqJHZpDN0N1HNFjJc/1VNETNUV4nL_TtUT2oN-z/UJ1wNlTrkF",
 
     // mon: db
     // "https://nutchaungong.com/4/7420689",
@@ -28,7 +27,7 @@ function createLink() {
     // "https://eedootefaug.net/4/7420698",
     "https://futseerdoa.com/4/7237921",
     "https://eeboazurg.net/4/7420696",
-    // "https://psauwaun.com/4/7614690",
+    "https://psauwaun.com/4/7614690",
     // "https://ptougeegnep.net/4/7237907",
   ];
 
