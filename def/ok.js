@@ -11,11 +11,10 @@ function createLink() {
     // hil: db123
     "https://sexystory.navigateall.com/tags/",
 
-    // hil: Jacklove
-    "https://sexylove.mjsj.sbs/tags/",
-
     // clickadilla: Lucy
     "https://hot123.top/tags/",
+    // clickadilla: db123
+    "https://sexylove.mjsj.sbs/tags/",
 
     // mon: db
     // "https://nutchaungong.com/4/7420689",
