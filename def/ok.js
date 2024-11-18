@@ -14,7 +14,7 @@ function createLink() {
     // clickadilla: Lucy
     "https://hot123.top/tags/",
     // clickadilla: db123
-    "https://sexylove.mjsj.sbs/tags/",
+    "https://sexylove.mjsj.sbs",
 
     // mon: db
     // "https://nutchaungong.com/4/7420689",
