@@ -12,7 +12,8 @@ function createLink() {
     "https://sexystory.navigateall.com/tags/",
 
     // hil: Jacklove
-    "https://sexylove.mjsj.sbs/tags/",
+    // "https://sexylove.mjsj.sbs/tags/",
+    "http://interestweb.mjsj.sbs/auto",
 
     // clickadilla: Lucy
     "https://hot123.top/tags/",
