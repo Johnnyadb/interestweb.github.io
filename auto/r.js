@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
       {
         // jm
         url: "https://diligentcloset.com/b/3.Vv0/PI3mpLv-b/mpV/JCZfD/0R1oNwjjUP1/MSjWcg2HLoTSUZ2JN/TCUWylNaztcm",
-        w: 3
+        w: 4
       },
       {
         // sl
@@ -19,14 +19,27 @@ document.addEventListener('DOMContentLoaded', function() {
   ];
 
   function selectLinkByWeight(links) {
-    const totalWeight = links.reduce((acc, link) => acc + link.w, 0);
+    const totalWeight = links.reduce((acc, link) => acc + (link.w || 0), 0);
+    if (totalWeight === 0) {
+        return null;
+    }
+
     let random = Math.random() * totalWeight;
     for (const link of links) {
-        random -= link.w;
-        if (random < 0) {
-            return link.url;
+      if (!link.w) continue; // 跳过没有权重的链接
+
+      random -= link.w;
+      if (random < 0) {
+        // 如果是 urls 数组，从中随机选一个，否则直接使用 url
+        const urls = link.urls;
+        if (urls && Array.isArray(urls) && urls.length > 0) {
+          const randomIndex = Math.floor(Math.random() * urls.length);
+          return urls[randomIndex];
         }
+        return link.url || null;
+      }
     }
+    return null;
   }
   const redirectUrl = selectLinkByWeight(links);
   window.location.href = redirectUrl;
