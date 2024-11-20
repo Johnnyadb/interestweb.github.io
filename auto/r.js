@@ -9,12 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
       {
         // sl
         url: "https://diligentcloset.com/b/3.Vj0tPv3xpNvebPmtVcJ/Z/DH0n1_N/j-EV1DMnTrkF4SLMT/UO2KMrTNUDx/OcTIkR",
-        w: 2
-      },
-      // hil: Jacklove: je
-      {
-        url: "https://diligentcloset.com/b.3QVo0/Pd3OpgvMbcmyVcJWZADx0m1VNejQcw3sOdTrER0sLHTmUt2kN_z/cN5hMIT_UK",
-        w: 1
+        w: 3
       }
   ];
 
