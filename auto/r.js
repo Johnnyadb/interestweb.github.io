@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
       {
         // sl
         url: "https://diligentcloset.com/b/3.Vj0tPv3xpNvebPmtVcJ/Z/DH0n1_N/j-EV1DMnTrkF4SLMT/UO2KMrTNUDx/OcTIkR",
-        w: 2
+        w: 3
       },
 
       // hil: db123: sexystory
@@ -20,19 +20,26 @@ document.addEventListener('DOMContentLoaded', function() {
           "https://reasonable-source.com/ba3bV/0.PX3/pevYbzmAVAJoZvDf0e1_N/TocSwPNJTlcfyhLFTYUH1HNuzTAA1/NdzPMy",
         ],
         w: 2
-      }
+      },
+
+      // hil: Thomas
+      {
+        url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
+        w: 0.2
+      },
   ];
 
-  function selectLinkByWeight(links) {
-    const totalWeight = links.reduce((acc, link) => acc + (link.w || 0), 0);
+  function selectLinkByWeight(_links) {
+    const links = _links.filter(link => link.w && link.w > 0);
+    const totalWeight = links.reduce((acc, link) => acc + link.w, 0);
+
     if (totalWeight === 0) {
-        return null;
+      console.warn("No valid links available.");
+      return null;
     }
 
     let random = Math.random() * totalWeight;
     for (const link of links) {
-      if (!link.w) continue; // 跳过没有权重的链接
-
       random -= link.w;
       if (random < 0) {
         // 如果是 urls 数组，从中随机选一个，否则直接使用 url
@@ -46,6 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     return null;
   }
+  
   const redirectUrl = selectLinkByWeight(links);
   // window.location.href = redirectUrl;
   if (redirectUrl) {
