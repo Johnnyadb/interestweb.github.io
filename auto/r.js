@@ -25,14 +25,25 @@ document.addEventListener('DOMContentLoaded', function() {
       // hil: Thomas/Mary
       {
         url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-        w: 0.32
+        w: 0.15
       },
 
       // hil: yangjin/James
       {
         url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
-        w: 0.28
+        w: 0.12
       },
+
+      // hil: Brian/Mary 
+      {
+        urls: [
+          // split
+          "https://aggravatingoil.com/bd3EVt0.PE3Jp-vFb/mdVfJ/ZXD/0J1YOlDjMQ5/O-D/g/wMLrToUj4UMxz/kx4xOvDOEG",
+          // json
+          "https://aggravatingoil.com/bZ3/VG0FP.3/pyvtb/m/VlJtZfD-0/1VNyTOUXziMRj/k/2BL-TKU/1/NwTMMRyGOETwc-"
+        ],
+        w: 1
+      }
   ];
 
   function selectLinkByWeight(_links) {
