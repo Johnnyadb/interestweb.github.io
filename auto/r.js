@@ -25,13 +25,13 @@ document.addEventListener('DOMContentLoaded', function() {
       // hil: Thomas/Mary
       {
         url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-        w: 0.24
+        w: 0.3
       },
 
       // hil: yangjin/James
       {
         url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
-        w: 0.18
+        w: 0.2
       },
 
       // hil: Brian/Mary 
