@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
           "https://luglawhaulsano.net/4/8628429",
           "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 1
+        w: 0.9
       },
   ];
 
