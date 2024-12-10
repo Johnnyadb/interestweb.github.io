@@ -25,13 +25,13 @@ document.addEventListener('DOMContentLoaded', function() {
       // hil: Thomas/Mary
       {
         url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-        w: 0.7
+        w: 0.9
       },
 
       // hil: yangjin/James
       {
         url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
-        w: 0.6
+        w: 0.8
       },
 
       // hil: Brian/Mary 
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
           "https://luglawhaulsano.net/4/8628429",
           "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 0.9
+        w: 1
       },
   ];
 
