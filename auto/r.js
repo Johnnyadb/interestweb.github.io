@@ -22,18 +22,6 @@ document.addEventListener('DOMContentLoaded', function() {
         w: 2
       },
 
-      // hil: Thomas/Mary
-      {
-        url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-        w: 0.9
-      },
-
-      // hil: yangjin/James
-      {
-        url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
-        w: 0.8
-      },
-
       // hil: Brian/Mary 
       {
         urls: [
@@ -45,16 +33,38 @@ document.addEventListener('DOMContentLoaded', function() {
         w: 1
       },
 
+      // hil: Thomas/Mary
+      {
+        url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
+        w: 1.2
+      },
+
+      // hil: yangjin/James
+      {
+        url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
+        w: 1.0
+      },
+
       // mon: Brian
+      {
+        urls: [
+          // "https://luglawhaulsano.net/4/8628644",
+          // "https://luglawhaulsano.net/4/8628640",
+          "https://luglawhaulsano.net/4/8628645",
+          "https://luglawhaulsano.net/4/8628429",
+          "https://luglawhaulsano.net/4/8628428",
+        ],
+        w: 0.8
+      },
       {
         urls: [
           "https://luglawhaulsano.net/4/8628644",
           "https://luglawhaulsano.net/4/8628640",
           "https://luglawhaulsano.net/4/8628645",
-          "https://luglawhaulsano.net/4/8628429",
-          "https://luglawhaulsano.net/4/8628428",
+          // "https://luglawhaulsano.net/4/8628429",
+          // "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 1
+        w: 0.6
       },
   ];
 
