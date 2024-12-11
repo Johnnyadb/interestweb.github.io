@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
           "https://luglawhaulsano.net/4/8628429",
           "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 0.6
+        w: 0.8
       },
       {
         urls: [
@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
           // "https://luglawhaulsano.net/4/8628429",
           // "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 0.4
+        w: 0.6
       },
   ];
 
