@@ -53,10 +53,10 @@ document.addEventListener('DOMContentLoaded', function() {
       {
         urls: [
           // "https://luglawhaulsano.net/4/8628644",
-          "https://luglawhaulsano.net/4/8628640",
+          // "https://luglawhaulsano.net/4/8628640",
           "https://luglawhaulsano.net/4/8628645",
           "https://luglawhaulsano.net/4/8628429",
-          // "https://luglawhaulsano.net/4/8628428",
+          "https://luglawhaulsano.net/4/8628428",
         ],
         w: 0.8
       },
@@ -64,11 +64,11 @@ document.addEventListener('DOMContentLoaded', function() {
         urls: [
           "https://luglawhaulsano.net/4/8628644",
           "https://luglawhaulsano.net/4/8628640",
-          // "https://luglawhaulsano.net/4/8628645",
+          "https://luglawhaulsano.net/4/8628645",
           // "https://luglawhaulsano.net/4/8628429",
-          "https://luglawhaulsano.net/4/8628428",
+          // "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 0.7
+        w: 0.9
       },
   ];
 
