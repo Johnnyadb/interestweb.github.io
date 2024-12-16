@@ -30,42 +30,42 @@ document.addEventListener('DOMContentLoaded', function() {
           // json
           "https://aggravatingoil.com/bZ3/VG0FP.3/pyvtb/m/VlJtZfD-0/1VNyTOUXziMRj/k/2BL-TKU/1/NwTMMRyGOETwc-"
         ],
-        w: 1.5
+        w: 1.8
       },
 
       // hil: Thomas/Mary
       {
         url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-        w: 0.7
+        w: 0.6
       },
       // hil: yangjin/James
       {
         url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
-        w: 0.6
+        w: 0.5
       },
       // hil: goodboy/Denis
       {
         url: "https://happygolucky-officer.com/bS3.VL0zPs3dpwvCb/mfVYJkZAD/0X1wOSDhcWz/MEDjUGxYLdT_U/4PNgzrMOwkN/TkIk",
-        w: 0.5,
+        w: 0.4,
       },
 
       // mon: Brian
       {
         urls: [
-          "https://luglawhaulsano.net/4/8628644",
+          // "https://luglawhaulsano.net/4/8628644",
           "https://luglawhaulsano.net/4/8628640",
           "https://luglawhaulsano.net/4/8628645",
-          // "https://luglawhaulsano.net/4/8628429",
+          "https://luglawhaulsano.net/4/8628429",
           // "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 0.9
+        w: 0.7
       },
       {
         urls: [
           "https://luglawhaulsano.net/4/8628644",
-          // "https://luglawhaulsano.net/4/8628640",
+          "https://luglawhaulsano.net/4/8628640",
           // "https://luglawhaulsano.net/4/8628645",
-          "https://luglawhaulsano.net/4/8628429",
+          // "https://luglawhaulsano.net/4/8628429",
           "https://luglawhaulsano.net/4/8628428",
         ],
         w: 0.8
