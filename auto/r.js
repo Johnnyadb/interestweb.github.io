@@ -19,56 +19,45 @@ document.addEventListener('DOMContentLoaded', function() {
           "https://reasonable-source.com/bS3BVo0xP.3dpivWbwmUVzJxZRDg0D1BNlT/cpw/NGzvEv4LLBT_UD1ANSzjA/3YMoTlkP",
           "https://reasonable-source.com/ba3bV/0.PX3/pevYbzmAVAJoZvDf0e1_N/TocSwPNJTlcfyhLFTYUH1HNuzTAA1/NdzPMy",
         ],
-        w: 2
-      },
-
-      // hil: Brian/Mary 
-      {
-        urls: [
-          // split
-          "https://aggravatingoil.com/bd3EVt0.PE3Jp-vFb/mdVfJ/ZXD/0J1YOlDjMQ5/O-D/g/wMLrToUj4UMxz/kx4xOvDOEG",
-          // json
-          "https://aggravatingoil.com/bZ3/VG0FP.3/pyvtb/m/VlJtZfD-0/1VNyTOUXziMRj/k/2BL-TKU/1/NwTMMRyGOETwc-"
-        ],
-        w: 1.8
+        w: 3
       },
 
       // hil: Thomas/Mary
       {
         url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-        w: 0.6
+        w: 0.8
       },
       // hil: yangjin/James
       {
         url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
-        w: 0.5
+        w: 0.7
       },
       // hil: goodboy/Denis
       {
         url: "https://happygolucky-officer.com/bS3.VL0zPs3dpwvCb/mfVYJkZAD/0X1wOSDhcWz/MEDjUGxYLdT_U/4PNgzrMOwkN/TkIk",
-        w: 0.4,
+        w: 0.6,
       },
 
       // mon: Brian
       {
         urls: [
-          // "https://luglawhaulsano.net/4/8628644",
+          "https://luglawhaulsano.net/4/8628644",
           // "https://luglawhaulsano.net/4/8628640",
-          "https://luglawhaulsano.net/4/8628645",
+          // "https://luglawhaulsano.net/4/8628645",
           "https://luglawhaulsano.net/4/8628429",
           "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 0.7
+        w: 0.9
       },
       {
         urls: [
-          "https://luglawhaulsano.net/4/8628644",
+          // "https://luglawhaulsano.net/4/8628644",
           "https://luglawhaulsano.net/4/8628640",
           "https://luglawhaulsano.net/4/8628645",
-          // "https://luglawhaulsano.net/4/8628429",
+          "https://luglawhaulsano.net/4/8628429",
           // "https://luglawhaulsano.net/4/8628428",
         ],
-        w: 0.8
+        w: 1.0
       },
   ];
 
