@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
       {
         // sl
         url: "https://diligentcloset.com/b/3.Vj0tPv3xpNvebPmtVcJ/Z/DH0n1_N/j-EV1DMnTrkF4SLMT/UO2KMrTNUDx/OcTIkR",
-        w: 3
+        w: 5
       },
 
       // hil: db123: sexystory
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
           "https://reasonable-source.com/bS3BVo0xP.3dpivWbwmUVzJxZRDg0D1BNlT/cpw/NGzvEv4LLBT_UD1ANSzjA/3YMoTlkP",
           "https://reasonable-source.com/ba3bV/0.PX3/pevYbzmAVAJoZvDf0e1_N/TocSwPNJTlcfyhLFTYUH1HNuzTAA1/NdzPMy",
         ],
-        w: 3
+        w: 4
       },
 
       // hil: Thomas/Mary
@@ -36,28 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
       {
         url: "https://happygolucky-officer.com/bS3.VL0zPs3dpwvCb/mfVYJkZAD/0X1wOSDhcWz/MEDjUGxYLdT_U/4PNgzrMOwkN/TkIk",
         w: 1.0,
-      },
-
-      // mon: Brian
-      {
-        urls: [
-          "https://luglawhaulsano.net/4/8628644",
-          // "https://luglawhaulsano.net/4/8628640",
-          // "https://luglawhaulsano.net/4/8628645",
-          "https://luglawhaulsano.net/4/8628429",
-          "https://luglawhaulsano.net/4/8628428",
-        ],
-        w: 1.4
-      },
-      {
-        urls: [
-          // "https://luglawhaulsano.net/4/8628644",
-          "https://luglawhaulsano.net/4/8628640",
-          "https://luglawhaulsano.net/4/8628645",
-          "https://luglawhaulsano.net/4/8628429",
-          // "https://luglawhaulsano.net/4/8628428",
-        ],
-        w: 1.5
       },
   ];
 
