@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+onPageVisibilityChange(async function() {
   const links = [
       // hil: Jacklove: sexylove
       {
@@ -38,37 +38,5 @@ document.addEventListener('DOMContentLoaded', function() {
         w: 1.0,
       },
   ];
-
-  function selectLinkByWeight(_links) {
-    const links = _links.filter(link => link.w && link.w > 0);
-    const totalWeight = links.reduce((acc, link) => acc + link.w, 0);
-
-    if (totalWeight === 0) {
-      console.warn("No valid links available.");
-      return null;
-    }
-
-    let random = Math.random() * totalWeight;
-    for (const link of links) {
-      random -= link.w;
-      if (random < 0) {
-        // 如果是 urls 数组，从中随机选一个，否则直接使用 url
-        const urls = link.urls;
-        if (urls && Array.isArray(urls) && urls.length > 0) {
-          const randomIndex = Math.floor(Math.random() * urls.length);
-          return urls[randomIndex];
-        }
-        return link.url || null;
-      }
-    }
-    return null;
-  }
-  
-  const redirectUrl = selectLinkByWeight(links);
-  // window.location.href = redirectUrl;
-  if (redirectUrl) {
-    window.open(redirectUrl, '_self', 'noopener,noreferrer');
-  } else {
-    console.error('No valid redirect URL found.');
-  }
+  redirectSelectLinkByWeight(links);
 });
