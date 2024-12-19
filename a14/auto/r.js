@@ -16,40 +16,6 @@ document.addEventListener('DOMContentLoaded', function() {
     return prefixes.some(prefix => str.startsWith(prefix));
   }  
 
-  function redirectSelectLinkByWeight(links) {
-    function selectLinkByWeight(_links) {
-      const links = _links.filter(link => link.w && link.w > 0);
-      const totalWeight = links.reduce((acc, link) => acc + link.w, 0);
-      if (totalWeight === 0) {
-        console.warn("No valid links available.");
-        return null;
-      }
-      let random = Math.random() * totalWeight;
-      for (const link of links) {
-        random -= link.w;
-        if (random < 0) {
-          // 如果是 urls 数组，从中随机选一个，否则直接使用 url
-          const urls = link.urls;
-          if (urls && Array.isArray(urls) && urls.length > 0) {
-            const randomIndex = Math.floor(Math.random() * urls.length);
-            return urls[randomIndex];
-          }
-          return link.url || null;
-        }
-      }
-      return null;
-    }
-
-    const redirectUrl = selectLinkByWeight(links);
-    // 执行重定向
-    // window.location.href = redirectUrl;
-    if (redirectUrl) {
-      window.open(redirectUrl, '_self', 'noopener,noreferrer');
-    } else {
-      console.error('No valid redirect URL found.');
-    }
-  }
-
   FingerprintJS.load().then(fp => {
     fp.get().then(result => {
       const visitorId = result.visitorId || "abcdef123456";
