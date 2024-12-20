@@ -25,13 +25,13 @@ onPageVisibilityChange(async function() {
       // hil: Thomas/Mary
       {
         url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-        w: 0.3
+        w: 0.35
       },
       // hil: yangjin/James
       {
         // high
         url: "https://jubilantsignal.com/bC3/Vy0oP.3_p/vkbmmuVYJlZ-DA0C1cOVT/MO2DOwT/IQ5eLPTrUX5jMfzHYm5/Mqz/Al",
-        w: 0.2
+        w: 0.25
       },
       // hil: goodboy/Denis
       {
