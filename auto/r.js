@@ -29,7 +29,8 @@ onPageVisibilityChange(async function() {
       },
       // hil: yangjin/James
       {
-        url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
+        // high
+        url: "https://jubilantsignal.com/bC3/Vy0oP.3_p/vkbmmuVYJlZ-DA0C1cOVT/MO2DOwT/IQ5eLPTrUX5jMfzHYm5/Mqz/Al",
         w: 0.3
       },
       // hil: goodboy/Denis
