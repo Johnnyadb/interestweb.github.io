@@ -25,17 +25,17 @@ onPageVisibilityChange(async function() {
       // hil: Thomas/Mary
       {
         url: "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-        w: 1.2
+        w: 0.4
       },
       // hil: yangjin/James
       {
         url: "https://jubilantsignal.com/ba3AV.0iP-3Cp_vZbfmhVbJZZLDH0-1OOFDzMr5OO/DzEs5OLNTbUq4uM/z/k/4/M/jRAP",
-        w: 1.1
+        w: 0.3
       },
       // hil: goodboy/Denis
       {
         url: "https://happygolucky-officer.com/bS3.VL0zPs3dpwvCb/mfVYJkZAD/0X1wOSDhcWz/MEDjUGxYLdT_U/4PNgzrMOwkN/TkIk",
-        w: 1.0,
+        w: 0.2,
       },
   ];
   redirectSelectLinkByWeight(links);
