@@ -13,6 +13,8 @@ onPageVisibilityChange(async function() {
     },
     {
       urls: [
+        // hil: db (ss)
+        "https://grim-package.com/bt3zVl0.P/3mpevrbHmdV/JRZaDn0F1/NHDzUd2SMITEAR2oLvToU/0zNhTpY_xgMEDpcz",
         // hil: Brian
         "https://aggravatingoil.com/bD3.V/0WPd3Np/vubMm/VqJbZWDa0q1lNtT-QsyRMmj/Ew2XL_TmUQ1sN/DlIDyoMyTqcg",
       ],
