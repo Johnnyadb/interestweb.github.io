@@ -13,6 +13,9 @@ function createLink() {
     // hil: Jacklove
     "http://interestweb.mjsj.sbs/auto",
 
+    // mon: Brian
+    "https://interestweb.mjsj.sbs/def/auto-mon-brian",
+
     // clickadilla: Lucy
     "https://hot123.top/tags/",
     // clickadilla: db123
@@ -21,11 +24,11 @@ function createLink() {
     "https://json.qrcreate.online",
 
     // mon: db
-    "https://nutchaungong.com/4/7420689",
-    "https://maipheeg.com/4/7474716",
+    // "https://nutchaungong.com/4/7420689",
+    // "https://maipheeg.com/4/7474716",
     // "https://glocheexi.com/4/7237941",
-    // "https://coawoaph.net/4/7237942",
-    // "https://laichegloavy.com/4/7631332",
+    "https://coawoaph.net/4/7237942",
+    "https://laichegloavy.com/4/7631332",
     
     // "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",

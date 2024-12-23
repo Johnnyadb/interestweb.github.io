@@ -11,6 +11,9 @@ function createLink() {
     // // hil: Thomas
     // "https://experiencedturn.com/bn3/V.0KPm3rp/vYb-mOVkJFZKDq0m1CNzjIAN1rMHDIgJyeLETjUp2wMeDkUPwyOIDOMs",
     // // "https://loveskill.mjsj.sbs/tags/",
+    
+    // mon: Brian
+    "https://interestweb.mjsj.sbs/def/auto-mon-brian",
 
     // mon: db
     // "https://nutchaungong.com/4/7420689",

@@ -12,6 +12,9 @@ function createLink() {
 
     // hil: Jacklove
     "http://interestweb.mjsj.sbs/auto",
+    
+    // mon: Brian
+    "https://interestweb.mjsj.sbs/def/auto-mon-brian",
 
     // clickadilla: Lucy
     "https://hot123.top/tags/",
