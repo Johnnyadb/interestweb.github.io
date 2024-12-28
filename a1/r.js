@@ -3,12 +3,6 @@ function createLink() {
     // hil: db (ss)
     "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
     "https://www.qrcreate.online",
-    
-    // hil: Brian
-    "https://json.navigateall.com",
-
-    // hil: db123
-    "https://sexystory.navigateall.com/tags/",
 
     // hil: Jacklove
     "http://interestweb.mjsj.sbs/auto",
@@ -31,8 +25,8 @@ function createLink() {
     "https://laichegloavy.com/4/7631332",
     
     "https://vorsoutseemt.com/4/7436813",
-    // "https://eedootefaug.net/4/7420698",
-    // "https://futseerdoa.com/4/7237921",
+    "https://eedootefaug.net/4/7420698",
+    "https://futseerdoa.com/4/7237921",
     // "https://eeboazurg.net/4/7420696",
     // "https://psauwaun.com/4/7614690",
     // "https://ptougeegnep.net/4/7237907",
