@@ -24,23 +24,12 @@ function createLink() {
     // "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
     
-    // "https://vorsoutseemt.com/4/7436813",
-    // "https://eedootefaug.net/4/7420698",
+    "https://vorsoutseemt.com/4/7436813",
+    "https://eedootefaug.net/4/7420698",
     "https://futseerdoa.com/4/7237921",
-    "https://eeboazurg.net/4/7420696",
-    "https://psauwaun.com/4/7614690",
+    // "https://eeboazurg.net/4/7420696",
+    // "https://psauwaun.com/4/7614690",
     // "https://ptougeegnep.net/4/7237907",
-
-    // mon: lucy
-    // "https://phuruxoods.com/4/7683326",
-    // "https://whauzavouweb.com/4/7683329",
-    // "https://naglelri.net/4/7683327",
-    // "https://fouwhigrezi.net/4/7683328",
-    // "https://boovoogie.net/4/7683330",
-    // "https://rangauck.com/4/7683319",
-    
-    // "https://json.qrcreate.online",
-    // "https://dubzenom.com/4/7782127",
   ];
 
   if (urls.length === 0) {
