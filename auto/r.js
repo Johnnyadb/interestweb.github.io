@@ -14,7 +14,7 @@ onPageVisibilityChange(async function() {
       {
         // high
         url: "https://jubilantsignal.com/bC3/Vy0oP.3_p/vkbmmuVYJlZ-DA0C1cOVT/MO2DOwT/IQ5eLPTrUX5jMfzHYm5/Mqz/Al",
-        w: 3,
+        w: 2,
       },
   ];
   redirectSelectLinkByWeight(links);
