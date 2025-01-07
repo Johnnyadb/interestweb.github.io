@@ -9,13 +9,7 @@ onPageVisibilityChange(async function() {
       {
         url: "https://happygolucky-officer.com/bS3.VL0zPs3dpwvCb/mfVYJkZAD/0X1wOSDhcWz/MEDjUGxYLdT_U/4PNgzrMOwkN/TkIk",
         w: 10,
-      },
-      // hil: yangjin/James
-      {
-        // high
-        url: "https://jubilantsignal.com/bC3/Vy0oP.3_p/vkbmmuVYJlZ-DA0C1cOVT/MO2DOwT/IQ5eLPTrUX5jMfzHYm5/Mqz/Al",
-        w: 1,
-      },
+      }
   ];
   redirectSelectLinkByWeight(links);
 });

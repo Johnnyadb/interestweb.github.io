@@ -6,9 +6,6 @@ onPageVisibilityChange(async function() {
 
           // hil: db (ss)
           "https://www.qrcreate.online",
-          
-          // hil: Brian
-          "https://json.navigateall.com",
       
           // hil: Jacklove
           "http://interestweb.mjsj.sbs/auto",
