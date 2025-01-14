@@ -18,12 +18,12 @@ function createLink() {
     // "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
     
-    "https://vorsoutseemt.com/4/7436813",
-    "https://eedootefaug.net/4/7420698",
+    // "https://vorsoutseemt.com/4/7436813",
+    // "https://eedootefaug.net/4/7420698",
     "https://futseerdoa.com/4/7237921",
     "https://eeboazurg.net/4/7420696",
-    // "https://psauwaun.com/4/7614690",
-    // "https://ptougeegnep.net/4/7237907",
+    "https://psauwaun.com/4/7614690",
+    "https://ptougeegnep.net/4/7237907",
   ];
 
   if (urls.length === 0) {
