@@ -6,9 +6,6 @@ onPageVisibilityChange(async function() {
 
           // hil: db (ss)
           "https://www.qrcreate.online",
-          
-          // mon: Brian
-          "https://interestweb.mjsj.sbs/def/auto-mon-brian",
       
           // clickadilla: Lucy
           "https://hot123.top/tags/",

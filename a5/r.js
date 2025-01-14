@@ -11,6 +11,9 @@ function createLink() {
     // hil: goodboy/Denis
     "https://happygolucky-officer.com/bS3.VL0zPs3dpwvCb/mfVYJkZAD/0X1wOSDhcWz/MEDjUGxYLdT_U/4PNgzrMOwkN/TkIk",
 
+    // mon: Brian
+    "https://interestweb.mjsj.sbs/def/auto-mon-brian",
+
     // mon: db
     // "https://nutchaungong.com/4/7420689",
     // "https://maipheeg.com/4/7474716",
