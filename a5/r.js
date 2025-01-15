@@ -3,28 +3,20 @@ function createLink() {
     // hil: db (ss)
     // "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
     "https://tidy-status.com/bS3.VD0oPL3npkvjbEm/VuJfZ/Du0o1ZNJDaMV2jOMTJcy2/LpTsU/0-Mdz/Y/5vNrzRcY",
-    // hil: "https://www.qrcreate.online",
+    // hil: db-"https://www.qrcreate.online",
     "https://tidy-status.com/b.3EVN0_PB3qplvVbMmoVzJhZmDn0f1rNODmUy2HMXTdAO2VLdT/UD0PNfTPYExDM/DFcm",
 
-    // hil: Thomas/Mary
-    "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
-    // hil: goodboy/Denis
-    "https://happygolucky-officer.com/bS3.VL0zPs3dpwvCb/mfVYJkZAD/0X1wOSDhcWz/MEDjUGxYLdT_U/4PNgzrMOwkN/TkIk",
-
-    // mon: Brian
-    "https://interestweb.mjsj.sbs/def/auto-mon-brian",
-
     // mon: db
-    // "https://nutchaungong.com/4/7420689",
-    // "https://maipheeg.com/4/7474716",
+    "https://nutchaungong.com/4/7420689",
+    "https://maipheeg.com/4/7474716",
     // "https://glocheexi.com/4/7237941",
     // "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
     
     // "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",
-    "https://futseerdoa.com/4/7237921",
-    "https://eeboazurg.net/4/7420696",
+    // "https://futseerdoa.com/4/7237921",
+    // "https://eeboazurg.net/4/7420696",
     "https://psauwaun.com/4/7614690",
     "https://ptougeegnep.net/4/7237907",
   ];
