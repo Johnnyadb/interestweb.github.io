@@ -1,8 +1,8 @@
 function createLink() {
   var urls = [
-    // hil: db (ss)
-    "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
-    "https://www.qrcreate.online",
+    // hil: db(new)
+    "https://tidy-status.com/bx3_V.0xPk3TpyvObym/V_JBZfDP0C2dMvD/Io0DNCjCYKzlL/TtYXwSMljLQ/2cNCjFQn",
+    "https://tidy-status.com/BskeKo",
 
     // hil: Jacklove
     "http://interestweb.mjsj.sbs/auto",
@@ -10,8 +10,8 @@ function createLink() {
     // mon: Brian
     "https://interestweb.mjsj.sbs/def/auto-mon-brian",
 
-    // clickadilla: Lucy
-    "https://hot123.top/tags/",
+    // // clickadilla: Lucy
+    // "https://hot123.top/tags/",
     // clickadilla: db123
     "https://sexylove.mjsj.sbs",
     // clickadilla: Brian
@@ -26,7 +26,7 @@ function createLink() {
     
     // "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",
-    "https://futseerdoa.com/4/7237921",
+    // "https://futseerdoa.com/4/7237921",
     "https://eeboazurg.net/4/7420696",
     "https://psauwaun.com/4/7614690",
     "https://ptougeegnep.net/4/7237907",

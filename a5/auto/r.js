@@ -6,6 +6,7 @@ onPageVisibilityChange(async function() {
 
           // hil: db (ss)
           "https://www.qrcreate.online",
+          "https://tidy-status.com/BskeKo",
 
           // hil: Thomas/Mary
           "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
@@ -15,8 +16,8 @@ onPageVisibilityChange(async function() {
           // mon: Brian
           "https://interestweb.mjsj.sbs/def/auto-mon-brian",
       
-          // clickadilla: Lucy
-          "https://hot123.top/tags/",
+          // // clickadilla: Lucy
+          // "https://hot123.top/tags/",
           // clickadilla: db123
           "https://sexylove.mjsj.sbs",
           // clickadilla: Brian
