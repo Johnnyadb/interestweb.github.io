@@ -16,12 +16,12 @@ onPageVisibilityChange(async function() {
           // mon: Brian
           "https://interestweb.mjsj.sbs/def/auto-mon-brian",
       
-          // // clickadilla: Lucy
-          // "https://hot123.top/tags/",
+          // clickadilla: Lucy
+          "https://hot123.top/tags/",
           // clickadilla: db123
           "https://sexylove.mjsj.sbs",
-          // clickadilla: Brian
-          "https://json.qrcreate.online",
+          // // clickadilla: Brian
+          // "https://json.qrcreate.online",
         ],
         w: 1
       },
