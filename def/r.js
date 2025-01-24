@@ -4,7 +4,7 @@ function createLink() {
     // "https://www.qrcreate.online",
     "https://tidy-status.com/BskeKo",
     // hil: db(ss)
-    "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
+    // "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
     // hil: db(new)
     "https://tidy-status.com/bx3_V.0xPk3TpyvObym/V_JBZfDP0C2dMvD/Io0DNCjCYKzlL/TtYXwSMljLQ/2cNCjFQn",
 
@@ -32,8 +32,8 @@ function createLink() {
     
     // "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",
-    "https://futseerdoa.com/4/7237921",
-    "https://eeboazurg.net/4/7420696",
+    // "https://futseerdoa.com/4/7237921",
+    // "https://eeboazurg.net/4/7420696",
     "https://psauwaun.com/4/7614690",
     "https://ptougeegnep.net/4/7237907",
   ];

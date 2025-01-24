@@ -7,7 +7,7 @@ function createLink() {
     "https://tidy-status.com/BskeKo",
 
     // mon: db
-    "https://nutchaungong.com/4/7420689",
+    // "https://nutchaungong.com/4/7420689",
     "https://maipheeg.com/4/7474716",
     "https://glocheexi.com/4/7237941",
     "https://coawoaph.net/4/7237942",
