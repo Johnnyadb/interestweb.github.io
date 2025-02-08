@@ -11,8 +11,8 @@ function createLink() {
     "https://hot123.top/tags/",
     // clickadilla: db123
     "https://sexylove.mjsj.sbs",
-    // // clickadilla: Brian
-    // "https://json.qrcreate.online",
+    // clickadilla: Brian
+    "https://json.qrcreate.online",
 
     // mon: db
     // "https://nutchaungong.com/4/7420689",
