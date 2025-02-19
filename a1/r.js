@@ -4,8 +4,10 @@ function createLink() {
     "https://tidy-status.com/bx3_V.0xPk3TpyvObym/V_JBZfDP0C2dMvD/Io0DNCjCYKzlL/TtYXwSMljLQ/2cNCjFQn",
     "https://tidy-status.com/BskeKo",
 
-    // hil: Jacklove
-    "http://interestweb.mjsj.sbs/auto",
+    // hil: Thomas/Mary
+    "https://superficial-sensitive.com/bX3IV.0UPE3_pxvFblmtVvJRZVDT0/1bOcD/Mr0WNzjDcAwtLIT/Uw4aMSz/QR2_NQzwEo",
+    // hil: goodboy/Denis
+    "https://happygolucky-officer.com/bS3.VL0zPs3dpwvCb/mfVYJkZAD/0X1wOSDhcWz/MEDjUGxYLdT_U/4PNgzrMOwkN/TkIk",
   
     // clickadilla: Lucy
     "https://hot123.top/tags/",
