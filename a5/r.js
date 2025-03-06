@@ -7,17 +7,17 @@ function createLink() {
     "https://tidy-status.com/BskeKo",
 
     // mon: db
-    // "https://nutchaungong.com/4/7420689", // deactive
-    // "https://maipheeg.com/4/7474716", // deactive
-    // "https://glocheexi.com/4/7237941",
-    // "https://coawoaph.net/4/7237942",
+    "https://nutchaungong.com/4/7420689", // deactive
+    "https://maipheeg.com/4/7474716", // deactive
+    "https://glocheexi.com/4/7237941",
+    "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
     
     // "https://vorsoutseemt.com/4/7436813",
-    "https://eedootefaug.net/4/7420698",
-    "https://futseerdoa.com/4/7237921", // deactive
-    "https://eeboazurg.net/4/7420696", // deactive
-    "https://psauwaun.com/4/7614690", // deactive
+    // "https://eedootefaug.net/4/7420698",
+    // "https://futseerdoa.com/4/7237921", // deactive
+    // "https://eeboazurg.net/4/7420696", // deactive
+    // "https://psauwaun.com/4/7614690", // deactive
     // "https://ptougeegnep.net/4/7237907", // deactive
   ];
 
