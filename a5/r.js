@@ -5,20 +5,15 @@ function createLink() {
     "https://tidy-status.com/bS3.VD0oPL3npkvjbEm/VuJfZ/Du0o1ZNJDaMV2jOMTJcy2/LpTsU/0-Mdz/Y/5vNrzRcY",
     // hil: db-"https://www.qrcreate.online",
     "https://tidy-status.com/BskeKo",
-
-    // mon: db
-    // "https://nutchaungong.com/4/7420689", // deactive
-    // "https://maipheeg.com/4/7474716", // deactive
-    "https://glocheexi.com/4/7237941",
-    "https://coawoaph.net/4/7237942",
-    "https://laichegloavy.com/4/7631332",
     
+    // mon: db
+    "https://laichegloavy.com/4/7631332",
     "https://vorsoutseemt.com/4/7436813",
-    // "https://eedootefaug.net/4/7420698",
-    // "https://futseerdoa.com/4/7237921", // deactive
-    // "https://eeboazurg.net/4/7420696", // deactive
-    // "https://psauwaun.com/4/7614690", // deactive
-    // "https://ptougeegnep.net/4/7237907", // deactive
+    "https://eedootefaug.net/4/7420698",
+    // "https://futseerdoa.com/4/7237921",
+    // "https://eeboazurg.net/4/7420696",
+    // "https://psauwaun.com/4/7614690",
+    "https://ptougeegnep.net/4/7237907",
   ];
 
   if (urls.length === 0) {
