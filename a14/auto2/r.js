@@ -25,28 +25,7 @@ onPageVisibilityChange(async function() {
       urls: [
         "https://ougeechimp.net/4/9249984",
       ],
-      w: 1.4
-    },
-    {
-      urls: [
-        "https://ougeechimp.net/4/7436813",
-        "https://ougeechimp.net/4/7631332",
-      ],
-      w: 1.3
-    },
-    {
-      urls: [
-        "https://ougeechimp.net/4/7237907",
-        "https://ougeechimp.net/4/7237921",
-      ],
-      w: 1.2
-    },
-    {
-      urls: [
-        "https://ougeechimp.net/4/7614690",
-        "https://ougeechimp.net/4/7420696",
-      ],
-      w: 1.1
+      w: 1.0
     }
   ];
   redirectSelectLinkByWeight(links);
