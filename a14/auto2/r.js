@@ -7,7 +7,7 @@ onPageVisibilityChange(async function() {
         "https://www.qrcreate.online",
         "https://tidy-status.com/BskeKo",
       ],
-      w: 2.0
+      w: 4.0
     },
     {
       urls: [
@@ -18,14 +18,17 @@ onPageVisibilityChange(async function() {
         // clickadilla: Brian
         "https://json.qrcreate.online",
       ],
-      w: 3.0
+      w: 5.0
     },
     // mon: db
     {
       urls: [
         "https://ougeechimp.net/4/9249984",
+        "https://bulrovufaiphi.com/4/9242232",
+        "https://bulrovufaiphi.com/4/9242113",
+        "https://bulrovufaiphi.com/4/7420698",
       ],
-      w: 1.0
+      w: 3.0
     }
   ];
   redirectSelectLinkByWeight(links);
