@@ -23,6 +23,7 @@ onPageVisibilityChange(async function() {
         "https://json.qrcreate.online",
 
         // mon: db
+        "https://ougeechimp.net/4/9249984",
         "https://bulrovufaiphi.com/4/9242232",
         "https://bulrovufaiphi.com/4/9242113",
         "https://bulrovufaiphi.com/4/7420698",
