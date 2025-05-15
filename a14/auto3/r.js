@@ -18,7 +18,17 @@ onPageVisibilityChange(async function() {
         // clickadilla: Brian
         "https://json.qrcreate.online",
       ],
-      w: 6.0
+      w: 8.0
+    },
+    // mon: db
+    {
+      urls: [
+        "https://ougeechimp.net/4/9249984",
+        "https://bulrovufaiphi.com/4/9242232",
+        "https://bulrovufaiphi.com/4/9242113",
+        "https://bulrovufaiphi.com/4/7420698",
+      ],
+      w: 2.0
     }
   ];
   redirectSelectLinkByWeight(links);
