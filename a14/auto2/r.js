@@ -18,7 +18,7 @@ onPageVisibilityChange(async function() {
         // clickadilla: Brian
         "https://json.qrcreate.online",
       ],
-      w: 5.0
+      w: 3.0
     },
     // mon: db
     {
