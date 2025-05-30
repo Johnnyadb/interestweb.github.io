@@ -7,7 +7,7 @@ onPageVisibilityChange(async function() {
         "https://www.qrcreate.online",
         "https://tidy-status.com/BskeKo",
       ],
-      w: 5.0
+      w: 6.0
     },
     {
       urls: [
@@ -28,7 +28,7 @@ onPageVisibilityChange(async function() {
         "https://bulrovufaiphi.com/4/9242113",
         "https://bulrovufaiphi.com/4/7420698",
       ],
-      w: 2.0
+      w: 3.0
     }
   ];
   redirectSelectLinkByWeight(links);

@@ -29,7 +29,7 @@ onPageVisibilityChange(async function() {
         "https://bulrovufaiphi.com/4/7420698",
       ],
       w: 1.0
-    }  
+    }
   ];
   redirectSelectLinkByWeight(links);
 });
